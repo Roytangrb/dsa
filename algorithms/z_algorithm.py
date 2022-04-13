@@ -1,8 +1,4 @@
-"""Z Algorithm for string pattern matching
-
-https://leetcode.com/problems/sum-of-scores-of-built-strings/
-Find sum of substring lengths, where each substring is a prefix of the input.
-"""
+"""Z Algorithm for string pattern matching"""
 
 
 def compute_z(s: str) -> list[int]:
@@ -36,6 +32,10 @@ def compute_z(s: str) -> list[int]:
 
 
 def leetcode2223(s: str) -> int:
+    """Leetcode 2223
+
+    Find sum of substring lengths, where each substring is a prefix of the input.
+    """
     # first value in z array is 0
     # the input string s is a prefix of itself, add score of len(s)
     return sum(compute_z(s)) + len(s)

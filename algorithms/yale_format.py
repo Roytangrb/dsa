@@ -1,7 +1,4 @@
-"""Sparse matrix multiplication with Yale format compression
-
-https://leetcode.com/problems/sparse-matrix-multiplication/
-"""
+"""Sparse matrix multiplication with Yale format compression"""
 
 from typing import NamedTuple
 
@@ -87,8 +84,8 @@ if __name__ == "__main__":
         [7, 0, 0],
         [-7, 0, 3],
     ]
-    
+
     print("CSR:", compress(mat1, col_wise=False))
     print("CSC:", compress(mat2, col_wise=True))
-    
+
     assert multiply(mat1, mat2) == expected

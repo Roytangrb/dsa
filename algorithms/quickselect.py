@@ -1,7 +1,5 @@
-"""Quickselect (Hoare Selection) algorithm to find top K/ Kth element(s)
+"""Quickselect (Hoare Selection) algorithm to find top K/ Kth element(s)"""
 
-https://leetcode.com/problems/top-k-frequent-elements/
-"""
 import random
 from collections import Counter
 
