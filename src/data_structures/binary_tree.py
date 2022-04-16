@@ -22,6 +22,15 @@ class TreeNode:
     def __repr__(self) -> str:
         return str(self.val)
 
+    def height(self) -> int:
+        h = 0
+        if self.left:
+            h = 1 + self.left.height()
+        if self.right:
+            h = max(h, 1 + self.right.height())
+
+        return h
+
     @classmethod
     def from_values(cls: type["TreeNode"], values: list[Optional[int]]) -> "TreeNode":
         """Construct binary tree with values from root to last level, left to right"""
