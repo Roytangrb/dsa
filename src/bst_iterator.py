@@ -1,4 +1,4 @@
-"""Traverse binary tree without recursion"""
+"""Traverse binary search tree without recursion"""
 
 from typing import Iterator, Optional
 
@@ -23,4 +23,6 @@ def iter_inorder(root: Optional[TreeNode]) -> Iterator[TreeNode]:
 
 if __name__ == "__main__":
     root = TreeNode.from_values([7, 3, 15, None, None, 9, 20])
+
+    root.visualize()
     print("Inorder:", list(iter_inorder(root)), sep="\n")
