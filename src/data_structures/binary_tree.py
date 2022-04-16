@@ -24,47 +24,47 @@ class TreeNode:
 
     @classmethod
     def from_values(cls: type["TreeNode"], values: list[Optional[int]]) -> "TreeNode":
-        """Construct binary tree with values from root to last layer, left to right"""
+        """Construct binary tree with values from root to last level, left to right"""
         if not values:
             raise ValueError("Empty values, use None as root instead.")
         if values[0] is None:
             raise ValueError("Root cannot be None.")
 
         root = cls(values[0])
-        layer = [root]
+        level = [root]
         i, depth, n = 1, 1, len(values)
         while i < n:
-            next_layer = []
+            next_level = []
             for j in range(i, min(n, i + 2**depth)):
                 value = values[j]
                 if value is not None:
-                    next_layer.append(cls(value))
+                    next_level.append(cls(value))
                 else:
-                    next_layer.append(None)
+                    next_level.append(None)
 
-            for k, child in enumerate(next_layer):
+            for k, child in enumerate(next_level):
                 parent, is_right = divmod(k, 2)
                 if is_right:
-                    layer[parent].right = child
+                    level[parent].right = child
                 else:
-                    layer[parent].left = child
+                    level[parent].left = child
 
-            i += len(next_layer)
+            i += len(next_level)
             depth += 1
-            layer = next_layer
+            level = next_level
 
         return root
 
     def visualize(self, out: Optional[TextIO] = sys.stdout):
         """Pretty print binary tree, default to stdout"""
-        layer = [self]
+        level = [self]
 
-        while layer:
-            print(*layer, sep=" ", file=out)
-            next_layer = []
+        while level:
+            print(*level, sep=" ", file=out)
+            next_level = []
 
-            for node in layer:
+            for node in level:
                 if node:
-                    next_layer.extend([node.left, node.right])
+                    next_level.extend([node.left, node.right])
 
-            layer = next_layer
+            level = next_level
