@@ -53,10 +53,11 @@ class TreeNode:
 
             for k, child in enumerate(next_level):
                 parent, is_right = divmod(k, 2)
-                if is_right:
-                    level[parent].right = child
-                else:
-                    level[parent].left = child
+                if p_node := level[parent]:
+                    if is_right:
+                        p_node.right = child
+                    else:
+                        p_node.left = child
 
             i += len(next_level)
             depth += 1

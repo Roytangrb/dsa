@@ -32,6 +32,8 @@ Data Structure and Algorithm
 <details>
 <summary>Tree</summary>
 
+ - In-order Traversal   
+   - [Relink BST to Sorted Linked List](https://leetcode.com/problems/increasing-order-search-tree/)
  - Iterative Binary Tree Traversal
    - [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/)
 
