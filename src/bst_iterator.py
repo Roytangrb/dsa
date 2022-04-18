@@ -25,4 +25,4 @@ if __name__ == "__main__":
     root = TreeNode.from_values([7, 3, 15, None, None, 9, 20])
 
     root.visualize()
-    print("Inorder:", list(iter_inorder(root)), sep="\n")
+    print("Inorder:", list(iter_inorder(root)))

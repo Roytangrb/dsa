@@ -63,15 +63,22 @@ class TreeNode:
         return root
 
     def visualize(self, out: Optional[TextIO] = sys.stdout):
-        """Pretty print binary tree, default to stdout"""
-        level = [self]
+        """Pretty print binary tree horizontally, default to stdout"""
+        lines = []
 
-        while level:
-            print(*level, sep=" ", file=out)
-            next_level = []
+        def preorder(
+            node: Optional[TreeNode], padding: str, edge: str, has_right_sibling: bool
+        ):
+            if node:
+                lines.append(f"{padding}{edge}{node.val}")
 
-            for node in level:
-                if node:
-                    next_level.extend([node.left, node.right])
+                padding += "│  " if has_right_sibling else "   "
+                preorder(
+                    node.left, padding, "├──" if node.right else "└──", bool(node.right)
+                )
+                preorder(node.right, padding, "└──", False)
 
-            level = next_level
+        lines.append(f"{self.val}")
+        preorder(self.left, "", "├──" if self.right else "└──", bool(self.right))
+        preorder(self.right, "", "└──", False)
+        print(*lines, file=out, sep="\n")
