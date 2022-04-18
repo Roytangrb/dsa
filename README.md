@@ -31,11 +31,12 @@ Data Structure and Algorithm
 </details>
 
 <details>
-<summary>Tree</summary>
+<summary>Binary Tree</summary>
 
 - In-order Traversal
   - [Relink BST to Sorted Linked List](https://leetcode.com/problems/increasing-order-search-tree/) ([code](src/bst_relink.py))
   - [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
+  - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - Iterative Binary Tree Traversal
   - [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) ([code](src/bst_iterator.py))
 
