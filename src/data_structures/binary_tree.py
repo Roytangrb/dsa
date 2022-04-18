@@ -41,26 +41,23 @@ class TreeNode:
 
         root = cls(values[0])
         level = [root]
-        i, depth, n = 1, 1, len(values)
-        while i < n:
+        i, n = 1, len(values)
+        while level:
             next_level = []
-            for j in range(i, min(n, i + 2**depth)):
-                value = values[j]
-                if value is not None:
-                    next_level.append(cls(value))
-                else:
-                    next_level.append(None)
+            for parent in level:
+                for k in (0, 1):
+                    # trailing null leave nodes could be omitted in the last level
+                    val = values[i + k] if i + k < n else None
+                    if val is not None:
+                        child = cls(val)
+                        if not k:
+                            parent.left = child
+                        else:
+                            parent.right = child
+                        next_level.append(child)
+                # take two values as children for a non-null parent
+                i += 2
 
-            for k, child in enumerate(next_level):
-                parent, is_right = divmod(k, 2)
-                if p_node := level[parent]:
-                    if is_right:
-                        p_node.right = child
-                    else:
-                        p_node.left = child
-
-            i += len(next_level)
-            depth += 1
             level = next_level
 
         return root

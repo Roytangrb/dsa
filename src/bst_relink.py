@@ -36,9 +36,7 @@ if __name__ == "__main__":
     testcases = (
         TreeNode.from_values([5, 1, 7]),
         TreeNode.from_values([2, 1, 4, None, None, 3]),
-        TreeNode.from_values(
-            [5, 3, 6, 2, 4, None, 8, 1, None, None, None, None, None, 7, 9]
-        ),
+        TreeNode.from_values([5, 3, 6, 2, 4, None, 8, 1, None, None, None, 7, 9]),
     )
 
     for root in testcases:
