@@ -19,6 +19,7 @@ Data Structure and Algorithm
 
 - Quickselect
   - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) ([code](src/quickselect.py))
+- [Find Two Swapped in Sorted Array](https://www.geeksforgeeks.org/sort-an-almost-sorted-array-where-only-two-elements-are-swapped/) ([code](src/find_swapped.py))
 
 </details>
 
@@ -37,6 +38,7 @@ Data Structure and Algorithm
   - [Relink BST to Sorted Linked List](https://leetcode.com/problems/increasing-order-search-tree/) ([code](src/bst_relink.py))
   - [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) ([code](src/morris_traversal.py), O(1) space with Morris Traversal)
   - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+  - [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) ([code](src/find_swapped.py))
 - Iterative Binary Tree Traversal
   - [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) ([code](src/bst_iterator.py))
 

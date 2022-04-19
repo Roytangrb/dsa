@@ -54,5 +54,4 @@ if __name__ == "__main__":
 
     for nums, k, expected in testcases:
         top_k = top_k_frequent(nums, k)
-        print(f"{nums=}, {k=}, {top_k=}")
-        assert list(sorted(top_k)) == expected, f"{expected=}"
+        assert (actual := list(sorted(top_k))) == expected, f"{expected=}, {actual=}"
