@@ -1,7 +1,7 @@
-"""Find two swapped elements in a sorted array
+"""Find two swapped elements in a sorted array"""
 
-https://leetcode.com/problems/recover-binary-search-tree/
-"""
+import bst_iterator
+from data_structures.binary_tree import TreeNode
 
 
 def find_two_swapped(nums: list[int]) -> tuple[int, int]:
@@ -22,6 +22,30 @@ def find_two_swapped(nums: list[int]) -> tuple[int, int]:
     return x, y
 
 
+def recover_bst(root: TreeNode):
+    """Recover swapped node values in BST
+
+    https://leetcode.com/problems/recover-binary-search-tree/
+    """
+    x = y = prev = None
+
+    for node in bst_iterator.iter_inorder(root):
+        if prev and node.val < prev.val:
+            y = node
+
+            if not x:
+                x = prev
+            else:
+                break
+        prev = node
+
+    assert x and y
+    x.val, y.val = y.val, x.val
+
+
+# Tests
+
+
 def test_find_two_swapped():
     testcases = (
         ([2, 1], (0, 1)),
@@ -33,5 +57,18 @@ def test_find_two_swapped():
         assert (actual := find_two_swapped(arr)) == expected, f"{expected=}, {actual=}"
 
 
+def test_recover_bst():
+    testcases = (
+        (TreeNode.from_values([1, 3, None, None, 2]), [1, 2, 3]),
+        (TreeNode.from_values([3, 1, 4, None, None, 2]), [1, 2, 3, 4]),
+    )
+
+    for root, expected in testcases:
+        recover_bst(root)
+
+        assert (actual := root.inorder()) == expected, f"{expected=}, {actual=}"
+
+
 if __name__ == "__main__":
     test_find_two_swapped()
+    test_recover_bst()

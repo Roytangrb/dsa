@@ -5,7 +5,6 @@ https://leetcode.com/problems/increasing-order-search-tree/
 
 from typing import Optional
 
-import bst_iterator
 from data_structures.binary_tree import TreeNode
 
 
@@ -40,7 +39,7 @@ if __name__ == "__main__":
     )
 
     for root in testcases:
-        expected = list(bst_iterator.iter_inorder(root))
+        expected = root.inorder()
         root = relink_bst_to_increasing(root)
         actual = []
         while root:

@@ -31,6 +31,16 @@ class TreeNode:
 
         return h
 
+    def inorder(self) -> list[int]:
+        """Return values of the in-order traversal"""
+
+        def _inorder(node: Optional["TreeNode"]) -> list[int]:
+            return (
+                _inorder(node.left) + [node.val] + _inorder(node.right) if node else []
+            )
+
+        return _inorder(self)
+
     @classmethod
     def from_values(cls: type["TreeNode"], values: list[Optional[int]]) -> "TreeNode":
         """Construct binary tree with values from root to last level, left to right"""

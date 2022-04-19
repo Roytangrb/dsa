@@ -4,9 +4,6 @@ https://leetcode.com/problems/convert-bst-to-greater-tree/
 Update node values to the in-order suffix sum
 """
 
-from typing import Optional
-
-import bst_iterator
 from data_structures.binary_tree import TreeNode
 
 
@@ -21,7 +18,7 @@ def get_successor(node: TreeNode) -> TreeNode:
     return succ
 
 
-def convert_bst(root: Optional[TreeNode]) -> Optional[TreeNode]:
+def convert_bst(root: TreeNode) -> TreeNode:
     suffix = 0
     curr = root
     while curr is not None:
@@ -62,8 +59,5 @@ if __name__ == "__main__":
             TreeNode.from_values([1, None, 1]),
         ),
     )
-    for root, converted in testcases:
-        actual = [d.val for d in bst_iterator.iter_inorder(convert_bst(root))]
-        expected = [d.val for d in bst_iterator.iter_inorder(converted)]
-
-        assert actual == expected
+    for root, expected in testcases:
+        assert convert_bst(root).inorder() == expected.inorder()
