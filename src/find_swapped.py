@@ -12,7 +12,7 @@ def find_two_swapped(nums: list[int]) -> tuple[int, int]:
         if nums[i] < nums[i - 1]:
             y = i
 
-            # first occurrence, nums[i - 1] is the large value moved to front
+            # first occurrence, nums[i - 1] is the large value swapped to front
             if x == -1:
                 x = i - 1
             # second occurrence, nums[i] is the small value swapped to back
