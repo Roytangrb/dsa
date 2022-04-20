@@ -7,6 +7,27 @@ Data Structure and Algorithm
 ## Algorithms
 
 <details>
+<summary>Binary Tree</summary>
+
+- In-order Traversal
+  - [Relink BST to Sorted Linked List](https://leetcode.com/problems/increasing-order-search-tree/) ([code](src/bst_relink.py))
+  - [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) ([code](src/morris_traversal.py), O(1) space with Morris Traversal)
+  - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+  - [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) ([code](src/find_swapped.py))
+- Iterative Binary Tree Traversal
+  - [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) ([code](src/bst_iterator.py))
+
+</details>
+
+<details>
+<summary>Graph</summary>
+
+- Disjoint Set Union Find
+  - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) ([code](src/union_by_size.py), union by size)
+
+</details>
+
+<details>
 <summary>Matrix</summary>
 
 - Yale Format
@@ -28,18 +49,5 @@ Data Structure and Algorithm
 
 - Z Algorithm
   - [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) ([code](src/z_algorithm.py))
-
-</details>
-
-<details>
-<summary>Binary Tree</summary>
-
-- In-order Traversal
-  - [Relink BST to Sorted Linked List](https://leetcode.com/problems/increasing-order-search-tree/) ([code](src/bst_relink.py))
-  - [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) ([code](src/morris_traversal.py), O(1) space with Morris Traversal)
-  - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-  - [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) ([code](src/find_swapped.py))
-- Iterative Binary Tree Traversal
-  - [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) ([code](src/bst_iterator.py))
 
 </details>
