@@ -1,4 +1,4 @@
-"""Utility data types or data structures for binary trees"""
+"""Utility data types for binary trees"""
 
 import sys
 from typing import Optional, TextIO

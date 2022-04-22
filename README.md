@@ -47,6 +47,9 @@ Data Structure and Algorithm
 <details>
 <summary>String Search & Pattern Matching</summary>
 
+- Trie
+  - [Design File System](https://leetcode.com/problems/design-file-system/) ([code](src/file_system.py))
+
 - Z Algorithm
   - [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) ([code](src/z_algorithm.py))
 
