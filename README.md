@@ -24,6 +24,9 @@ Data Structure and Algorithm
 
 - Disjoint Set Union Find
   - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) ([code](src/union_by_size.py), union by size)
+  - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([code](src/union_by_rank.py), union by rank)
+- Topological Sort
+  - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([code](src/topological_sort.py))
 
 </details>
 
