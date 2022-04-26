@@ -14,7 +14,7 @@ def minimum_spanning_tree(points: list[list[int]]) -> int:
         for j in range(i + 1, n):
             x1, y1 = points[i]
             x2, y2 = points[j]
-            # cost of edge represented by Manhattan distance
+            # weight of edge represented by Manhattan distance
             edges.append((abs(x1 - x2) + abs(y1 - y2), i, j))
 
     # use lowest-weighted edge, if the vertices are not connected
@@ -22,9 +22,9 @@ def minimum_spanning_tree(points: list[list[int]]) -> int:
     parent = [i for i in range(n)]
     rank = [0] * n
     ans = 0
-    for cost, u, v in sorted(edges):
+    for weight, u, v in sorted(edges):
         if union_by_rank.union(u, v, parent, rank):
-            ans += cost
+            ans += weight
 
     return ans
 

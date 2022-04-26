@@ -26,7 +26,9 @@ Data Structure and Algorithm
   - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) ([union by size](src/union_by_size.py))
   - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([union by rank](src/union_by_rank.py))
 - Minimum Spanning Tree
-  - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) ([Krukal's Algorithm](src/kruskal_mst.py) with union find)
+  - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+    - [Kruskal's Algorithm](src/kruskal_mst.py) with union find
+    - [Prim's Algorithm](src/prim_mst.py) with priority queue
 - Topological Sort
   - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([code](src/topological_sort.py))
 
