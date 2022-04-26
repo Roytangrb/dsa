@@ -26,6 +26,7 @@ def find(x, parent):
 
 
 def union(x, y, parent, rank) -> bool:
+    """Returns True if union happened (x and y are not in the same component)"""
     px = find(x, parent)
     py = find(y, parent)
     if px == py:

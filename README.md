@@ -11,7 +11,7 @@ Data Structure and Algorithm
 
 - In-order Traversal
   - [Relink BST to Sorted Linked List](https://leetcode.com/problems/increasing-order-search-tree/) ([code](src/bst_relink.py))
-  - [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) ([code](src/morris_traversal.py), O(1) space with Morris Traversal)
+  - [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) (O(1) space with [Morris Traversal](src/morris_traversal.py))
   - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   - [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) ([code](src/find_swapped.py))
 - Iterative Binary Tree Traversal
@@ -23,8 +23,10 @@ Data Structure and Algorithm
 <summary>Graph</summary>
 
 - Disjoint Set Union Find
-  - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) ([code](src/union_by_size.py), union by size)
-  - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([code](src/union_by_rank.py), union by rank)
+  - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) ([union by size](src/union_by_size.py))
+  - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([union by rank](src/union_by_rank.py))
+- Minimum Spanning Tree
+  - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) ([Krukal's Algorithm](src/kruskal_mst.py) with union find)
 - Topological Sort
   - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([code](src/topological_sort.py))
 
@@ -52,7 +54,6 @@ Data Structure and Algorithm
 
 - Trie
   - [Design File System](https://leetcode.com/problems/design-file-system/) ([code](src/file_system.py))
-
 - Z Algorithm
   - [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) ([code](src/z_algorithm.py))
 
