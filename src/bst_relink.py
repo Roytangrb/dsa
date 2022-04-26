@@ -43,7 +43,7 @@ if __name__ == "__main__":
         root = relink_bst_to_increasing(root)
         actual = []
         while root:
-            actual.append(root)
+            actual.append(root.val)
             root = root.right
 
         assert (
