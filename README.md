@@ -25,6 +25,7 @@ Data Structure and Algorithm
 - Disjoint Set Union Find
   - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) ([union by size](src/union_by_size.py))
   - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([union by rank](src/union_by_rank.py))
+  - [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
 - Minimum Spanning Tree
   - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
     - [Kruskal's Algorithm](src/kruskal_mst.py) with union find
