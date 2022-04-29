@@ -22,6 +22,8 @@ Data Structure and Algorithm
 <details>
 <summary>Graph</summary>
 
+- [Bipartite Graph](https://en.wikipedia.org/wiki/Bipartite_graph)
+  - [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) ([code](src/bipartiteness.py))
 - Dijkstra Shortest Path
   - [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) ([code](src/dijkstra.py))
   - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
