@@ -61,6 +61,16 @@ Data Structure and Algorithm
 </details>
 
 <details>
+<summary>Stack</summary>
+
+- Monotonic Stack
+  - [132 Pattern](https://leetcode.com/problems/132-pattern/)
+- [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+
+</details>
+
+
+<details>
 <summary>String Search & Pattern Matching</summary>
 
 - Trie
