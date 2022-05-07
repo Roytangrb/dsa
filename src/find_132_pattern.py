@@ -26,7 +26,7 @@ def find_132_pattern(nums: list[int]) -> bool:
     return False
 
 
-if __name__ = "main":
+if __name__ == "main":
     testcases = (
         ([1, 2, 3, 4], False),
         ([3, 1, 4, 2], True),
