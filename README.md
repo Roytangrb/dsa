@@ -4,8 +4,6 @@ Data Structure and Algorithm
 
 [Development Guide](https://github.com/Roytangrb/dsa/blob/master/CONTRIBUTING.md)
 
-## Algorithms
-
 <details>
 <summary>Binary Tree</summary>
 
@@ -38,6 +36,14 @@ Data Structure and Algorithm
     - [Prim's Algorithm](src/prim_mst.py) with priority queue
 - Topological Sort
   - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([code](src/topological_sort.py))
+
+</details>
+
+<details>
+<summary>Iterator</summary>
+
+- Peeking Iterator
+  - [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) ([code](src/iter_nested_list.py))
 
 </details>
 
