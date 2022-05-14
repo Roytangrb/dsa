@@ -25,6 +25,7 @@ Data Structure and Algorithm
 - Dijkstra Shortest Path
   - [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) ([code](src/dijkstra.py))
   - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+  - [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 - Disjoint Set Union Find
   - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) ([union by size](src/union_by_size.py))
   - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([union by rank](src/union_by_rank.py))
