@@ -14,6 +14,9 @@ Data Structure and Algorithm
   - [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) ([code](src/find_swapped.py))
 - Iterative Binary Tree Traversal
   - [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) ([code](src/bst_iterator.py))
+- BFS Traversal
+  - [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+  - [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 
 </details>
 
@@ -22,6 +25,8 @@ Data Structure and Algorithm
 
 - [Bipartite Graph](https://en.wikipedia.org/wiki/Bipartite_graph)
   - [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) ([code](src/bipartiteness.py))
+- BFS Unweighted Shortest Path
+  - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 - Dijkstra Shortest Path
   - [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) ([code](src/dijkstra.py))
   - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
