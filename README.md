@@ -42,6 +42,7 @@ Data Structure and Algorithm
     - [Prim's Algorithm](src/prim_mst.py) with priority queue
 - Topological Sort
   - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([code](src/topological_sort.py))
+  - [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 
 </details>
 
