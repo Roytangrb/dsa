@@ -36,6 +36,8 @@ Data Structure and Algorithm
   - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([union by rank](src/union_by_rank.py))
   - [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
   - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+- Bridge of Graph
+  - [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) ([Tarjan's bridge finding](src/tarjan_bridge_finding.py))
 - Minimum Spanning Tree
   - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
     - [Kruskal's Algorithm](src/kruskal_mst.py) with union find
