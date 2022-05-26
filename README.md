@@ -21,6 +21,14 @@ Data Structure and Algorithm
 </details>
 
 <details>
+<summary>Bit Manipulation</summary>
+
+- Unset rightmost bit
+  - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) ([code](leetcode/python/191-number-of-1-bits.py))
+
+</details>
+
+<details>
 <summary>Graph</summary>
 
 - [Bipartite Graph](https://en.wikipedia.org/wiki/Bipartite_graph)
