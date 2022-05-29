@@ -23,7 +23,9 @@ Data Structure and Algorithm
 <details>
 <summary>Bit Manipulation</summary>
 
-- Unset rightmost bit
+- Bitset
+  - [Maximum Product of Word Lenghts](https://leetcode.com/problems/maximum-product-of-word-lengths/) ([code](leetcode/python/318-maximum-product-of-word-lengths.py))
+- Unset Rightmost Bit
   - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) ([code](leetcode/python/191-number-of-1-bits.py))
 
 </details>
