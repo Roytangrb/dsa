@@ -27,6 +27,8 @@ Data Structure and Algorithm
   - [Maximum Product of Word Lenghts](https://leetcode.com/problems/maximum-product-of-word-lengths/) ([code](leetcode/python/318-maximum-product-of-word-lengths.py))
 - Unset Rightmost Bit
   - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) ([code](leetcode/python/191-number-of-1-bits.py))
+- Unset Leftmost Bit
+  - [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) ([code](leetcode/python/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py))
 
 </details>
 
@@ -100,6 +102,8 @@ Data Structure and Algorithm
 <details>
 <summary>String Search & Pattern Matching</summary>
 
+- Rolling Hash
+  - [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) ([code](leetcode/python/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py))
 - Trie
   - [Design File System](https://leetcode.com/problems/design-file-system/) ([code](src/file_system.py))
 - Z Algorithm
