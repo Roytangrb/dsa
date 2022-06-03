@@ -73,6 +73,8 @@ Data Structure and Algorithm
 <details>
 <summary>Matrix</summary>
 
+- Pre-computation
+  - [Range Sum Query 2D](https://leetcode.com/problems/range-sum-query-2d-immutable/) ([code](leetcode/python/304-range-sum-query-2d-immutable.py))
 - Yale Format
   - [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) ([code](src/yale_format.py))
 
