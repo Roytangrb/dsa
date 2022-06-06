@@ -71,6 +71,18 @@ Data Structure and Algorithm
 </details>
 
 <details>
+<summary>Linked List</summary>
+
+- Two Pointers
+  - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ([code](leetcode/python/160-intersection-of-two-linked-lists.py))
+- Floyd’s Tortoise and Hare
+  - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ([code](leetcode/python/141-linked-list-cycle.py))
+  - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+  - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) ([code](leetcode/python/287-find-the-duplicate-number.py))
+
+</details>
+
+<details>
 <summary>Matrix</summary>
 
 - Pre-computation
