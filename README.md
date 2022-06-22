@@ -98,6 +98,7 @@ Data Structure and Algorithm
 - Longest Increasing Subsequence (LIS)
   - [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) ([dp](leetcode/python/354-russian-doll-envelopes-dp.py)) ([O(nlogn) with Patience Sort](leetcode/python/354-russian-doll-envelopes-patience.py))
 - Quickselect
+  - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) ([code](leetcode/python/215-kth-largest-element-in-an-array.py))
   - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) ([code](src/quickselect.py))
 - Quicksort
   - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) ([code](src/quicksort.py))
