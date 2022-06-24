@@ -63,6 +63,13 @@ Data Structure and Algorithm
 </details>
 
 <details>
+<summary>Heap/Priority Queue</summary>
+
+- [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) ([code](leetcode/python/1354-construct-target-array-with-multiple-sums.py))
+
+</details>
+
+<details>
 <summary>Iterator</summary>
 
 - Peeking Iterator
