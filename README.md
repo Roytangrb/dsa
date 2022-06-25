@@ -66,6 +66,7 @@ Data Structure and Algorithm
 <summary>Heap/Priority Queue</summary>
 
 - [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) ([code](leetcode/python/1354-construct-target-array-with-multiple-sums.py))
+- [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) ([code](leetcode/python/630-course-schedule-iii.py))
 
 </details>
 
