@@ -93,6 +93,8 @@ Data Structure and Algorithm
 <details>
 <summary>Matrix</summary>
 
+- Backtracking
+  - [N-Queens](https://leetcode.com/problems/n-queens/) ([code](leetcode/python/51-n-queens.py))
 - Pre-computation
   - [Range Sum Query 2D](https://leetcode.com/problems/range-sum-query-2d-immutable/) ([code](leetcode/python/304-range-sum-query-2d-immutable.py))
 - Yale Format
