@@ -17,6 +17,8 @@ Data Structure and Algorithm
 - BFS Traversal
   - [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
   - [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
+- Segment Tree
+  - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) ([code](leetcode/python/307-range-sum-query-mutable.py))
 
 </details>
 
