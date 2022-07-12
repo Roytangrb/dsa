@@ -150,3 +150,11 @@ Data Structure and Algorithm
   - [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) ([code](src/z_algorithm.py))
 
 </details>
+
+<details>
+<summary>Others</summary>
+
+- [Bin Packing](https://en.wikipedia.org/wiki/Bin_packing_problem)
+  - [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) ([code](leetcode/python/473-matchsticks-to-square.py))
+
+</details>
