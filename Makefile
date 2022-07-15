@@ -10,11 +10,12 @@ dev_deps:
 	pip install --upgrade black isort
 
 
-# Format python codes
-.PHONY: lint
-lint:
+# Format codes
+.PHONY: fmt
+fmt:
 	black .
 	isort .
+	find ./leetcode/rust -type f -name "*.rs" -exec rustfmt {} +
 
 
 # Clean temp or output files
