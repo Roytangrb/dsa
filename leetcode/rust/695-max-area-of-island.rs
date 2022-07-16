@@ -19,9 +19,6 @@ impl Solution {
     }
 
     fn dfs(grid: &mut Vec<Vec<i32>>, i: usize, j: usize, m: usize, n: usize) -> i32 {
-        if i < 0 || i >= m || j < 0 || j >= n {
-            return 0;
-        }
         if grid[i][j] == 0 {
             return 0;
         }
@@ -29,9 +26,11 @@ impl Solution {
         grid[i][j] = 0;
         let mut area = 1;
         for dir in [0, 1, 0, -1, 0].windows(2) {
-            let dx = dir[0] as usize;
-            let dy = dir[1] as usize;
-            area += Self::dfs(grid, i + dx, j + dy, m, n);
+            let x = i as i32 + dir[0];
+            let y = j as i32 + dir[1];
+            if (0..m as i32).contains(&x) && (0..n as i32).contains(&y) {
+                area += Self::dfs(grid, x as usize, y as usize, m, n);
+            }
         }
 
         area
