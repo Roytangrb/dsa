@@ -62,6 +62,9 @@ Data Structure and Algorithm
 - Topological Sort
   - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ([code](src/topological_sort.py))
   - [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) ([code](leetcode/python/329-longest-increasing-path-in-a-matrix.py))
+- Modelling/Simulation
+  - [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/)
+  - [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) ([code](leetcode/python/576-out-of-boundary-paths.py))
 
 </details>
 

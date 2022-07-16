@@ -19,10 +19,10 @@ impl Solution {
     }
 
     fn dfs(grid: &mut Vec<Vec<i32>>, i: usize, j: usize, m: usize, n: usize) -> i32 {
-        if (i < 0 || i >= m || j < 0 || j >= n) {
+        if i < 0 || i >= m || j < 0 || j >= n {
             return 0;
         }
-        if (grid[i][j] == 0) {
+        if grid[i][j] == 0 {
             return 0;
         }
 
