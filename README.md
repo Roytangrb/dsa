@@ -103,6 +103,7 @@ Data Structure and Algorithm
   - [N-Queens](https://leetcode.com/problems/n-queens/) ([code](leetcode/python/51-n-queens.py))
 - Pre-computation
   - [Range Sum Query 2D](https://leetcode.com/problems/range-sum-query-2d-immutable/) ([code](leetcode/python/304-range-sum-query-2d-immutable.py))
+  - [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) ([code](leetcode/python/1074-number-of-submatrices-that-sum-to-target.py))
 - Yale Format
   - [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) ([code](src/yale_format.py))
 
