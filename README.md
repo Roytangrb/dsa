@@ -152,6 +152,8 @@ Data Structure and Algorithm
   - [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) ([code](leetcode/python/745-prefix-and-suffix-search.py))
   - [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) ([code](leetcode/python/1268-search-suggestions-system.py))
   - [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) ([code](leetcode/python/820-short-encoding-of-words.py))
+- Two/K Pointers
+  - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) ([code](leetcode/python/792-number-of-matching-subsequences.py))
 - Z Algorithm
   - [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) ([code](src/z_algorithm.py))
 
