@@ -89,6 +89,7 @@ Data Structure and Algorithm
 
 - Two Pointers
   - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ([code](leetcode/python/160-intersection-of-two-linked-lists.py))
+  - [Partition List](https://leetcode.com/problems/partition-list/) ([code](leetcode/python/86-partition-list.py))
 - Floyd’s Tortoise and Hare
   - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ([code](leetcode/python/141-linked-list-cycle.py))
   - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
