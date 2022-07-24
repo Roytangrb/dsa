@@ -45,7 +45,7 @@ class SegmentTree:
             self.tree[index] = self.tree[left] + self.tree[right]
 
     def sum_range(self, left: int, right: int) -> int:
-        """Query the the sum of a range"""
+        """Query the sum of a range"""
         # pos in the tree
         left += self.n
         right += self.n

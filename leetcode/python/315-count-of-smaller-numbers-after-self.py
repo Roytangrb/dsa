@@ -7,11 +7,13 @@ import sys
 
 sys.path.append("src")
 
+from data_structures.fenwick_tree import FenwickTree
 from data_structures.segment_tree import SegmentTree
 
 
 class Solution:
-    def countSmaller(self, nums: list[int]) -> list[int]:
+    def countSmaller__segment_tree(self, nums: list[int]) -> list[int]:
+        """Use segment tree"""
         n = len(nums)
         ans = [0] * n
 
@@ -21,5 +23,19 @@ class Solution:
             bucket = nums[i] + 10000
             st.update(bucket, st.get(bucket) + 1)
             ans[i] = st.sum_range(0, bucket - 1)
+
+        return ans
+
+    def countSmaller__fenwick_tree(self, nums: list[int]) -> list[int]:
+        """Use fenwick tree"""
+        n = len(nums)
+        ans = [0] * n
+
+        ft = FenwickTree(20001)
+
+        for i in range(n - 1, -1, -1):
+            bucket = nums[i] + 10000
+            ft.add(bucket, 1)
+            ans[i] = ft.sum_prefix(bucket - 1)
 
         return ans
