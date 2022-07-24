@@ -20,6 +20,7 @@ Data Structure and Algorithm
   - [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 - Segment Tree
   - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) ([code](leetcode/python/307-range-sum-query-mutable.py))
+  - [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) ([code](leetcode/python/315-count-of-smaller-numbers-after-self.py))
 
 </details>
 
