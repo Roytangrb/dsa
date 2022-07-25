@@ -116,6 +116,8 @@ Data Structure and Algorithm
 <details>
 <summary>Sorting</summary>
 
+- Binary Search
+  - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) ([code](leetcode/python/34-find-first-and-last-position-of-element-in-sorted-array.py))
 - Longest Increasing Subsequence (LIS)
   - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) ([code](leetcode/python/300-longest-increasing-subsequence.py))
   - [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) ([DP/ O(nlogn) with Patience Sort](leetcode/python/354-russian-doll-envelopes.py))
