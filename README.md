@@ -7,14 +7,14 @@ Data Structure and Algorithm
 <details>
 <summary>Binary Tree</summary>
 
-- In-order Traversal
+- Traversal/Modification
   - [Relink BST to Sorted Linked List](https://leetcode.com/problems/increasing-order-search-tree/) ([code](src/bst_relink.py))
   - [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) (O(1) space with [Morris Traversal](src/morris_traversal.py))
   - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   - [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) ([code](src/find_swapped.py))
   - [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ([code](leetcode/python/105-construct-binary-tree-from-preorder-and-inorder-traversal.py))
-- Iterative Binary Tree Traversal
   - [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) ([code](src/bst_iterator.py))
+  - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) ([code](leetcode/python/114-flatten-binary-tree-to-linked-list.py))
 - BFS Traversal
   - [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
   - [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
@@ -22,7 +22,7 @@ Data Structure and Algorithm
   - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) ([code](leetcode/python/307-range-sum-query-mutable.py))
   - [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) ([code](leetcode/python/315-count-of-smaller-numbers-after-self.py))
 - Lowest Common Ancestor (LCA)
-   - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) ([code](leetcode/python/236-lowest-common-ancestor-of-a-binary-tree.py))
+  - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) ([code](leetcode/python/236-lowest-common-ancestor-of-a-binary-tree.py))
 
 </details>
 
