@@ -151,6 +151,8 @@ Data Structure and Algorithm
 
 - Longest Common Subsequence (LCS)
   - [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) ([code](leetcode/python/583-delete-operation-for-two-strings.py))
+- Hashmap
+  - [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) ([code](leetcode/python/890-find-and-replace-pattern.py), same as [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/))
 - Rolling Hash
   - [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) ([code](leetcode/python/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py))
 - Sliding Window
