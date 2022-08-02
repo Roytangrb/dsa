@@ -15,7 +15,7 @@ class Solution:
 
     def uniquePaths__dp_compressed(self, m: int, n: int) -> int:
         dp = [1] * n
-        
+
         for _ in range(m - 2, -1, -1):
             for k in range(n - 2, -1, -1):
                 dp[k] += dp[k + 1]
