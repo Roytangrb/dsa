@@ -178,5 +178,7 @@ Data Structure and Algorithm
 
 - [Bin Packing](https://en.wikipedia.org/wiki/Bin_packing_problem)
   - [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) ([code](leetcode/python/473-matchsticks-to-square.py))
+- Permutation
+  - [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) ([code](leetcode/python/377-combination-sum-iv.py))
 
 </details>
