@@ -16,6 +16,7 @@ Data Structure and Algorithm
   - [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) ([code](src/bst_iterator.py))
   - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) ([code](leetcode/python/114-flatten-binary-tree-to-linked-list.py))
   - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ([code](leetcode/python/108-convert-sorted-array-to-binary-search-tree.py))
+  - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) ([code](leetcode/python/98-validate-binary-search-tree.py))
 - BFS Traversal
   - [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
   - [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
