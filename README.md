@@ -40,6 +40,7 @@ Data Structure and Algorithm
   - [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) ([code](leetcode/python/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py))
 - Leftmost Bit Position
   - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) ([Base 2 Long Division](leetcode/python/29-divide-two-integers.py))
+  - [Power of Four](https://leetcode.com/problems/power-of-four/) ([code](leetcode/python/342-power-of-four.py))
 
 </details>
 
