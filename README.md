@@ -124,6 +124,7 @@ Data Structure and Algorithm
   - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) ([code](leetcode/python/378-kth-smallest-element-in-a-sorted-matrix.py))
 - Yale Format
   - [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) ([code](src/yale_format.py))
+- [Rotate Image](https://leetcode.com/problems/rotate-image/) ([code](leetcode/python/48-rotate-image.py))
 
 </details>
 
