@@ -73,6 +73,8 @@ Data Structure and Algorithm
 - Modelling/Simulation
   - [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/)
   - [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) ([code](leetcode/python/576-out-of-boundary-paths.py))
+- Traversal
+  - [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) ([code](leetcode/python/417-pacific-atlantic-water-flow.py))
 
 </details>
 
