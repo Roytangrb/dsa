@@ -86,6 +86,7 @@ Data Structure and Algorithm
 - [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) ([code](leetcode/python/1338-reduce-array-size-to-the-half.py))
 - [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) ([code](leetcode/python/659-split-array-into-consecutive-subsequences.py))
 - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) ([code](leetcode/python/871-minimum-number-of-refueling-stops.py))
+- [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) ([code](leetcode/python/1383-maximum-performance-of-a-team.py))
 
 </details>
 
