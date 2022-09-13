@@ -198,6 +198,8 @@ Data Structure and Algorithm
 - Permutation
   - [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) ([code](leetcode/python/377-combination-sum-iv.py))
   - [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) ([code](leetcode/python/1220-count-vowels-permutation.py))
+- Parsing
+  - [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) ([code](leetcode/python/393-utf-8-validation.py))
 - Greedy
   - [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) ([code](leetcode/python/948-bag-of-tokens.py))
 - DP
