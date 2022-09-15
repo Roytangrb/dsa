@@ -149,6 +149,9 @@ Data Structure and Algorithm
 - Two Pointers
   - [Find Two Swapped in Sorted Array](https://www.geeksforgeeks.org/sort-an-almost-sorted-array-where-only-two-elements-are-swapped/) ([code](src/find_swapped.py))
   - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ([code](leetcode/python/88-merge-sorted-array.py))
+- Greedy Using Sort
+  - [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) ([code](leetcode/python/948-bag-of-tokens.py))
+  - [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) ([code](leetcode/python/2007-find-original-array-from-doubled-array.py))
 
 </details>
 
@@ -200,8 +203,6 @@ Data Structure and Algorithm
   - [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) ([code](leetcode/python/1220-count-vowels-permutation.py))
 - Parsing
   - [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) ([code](leetcode/python/393-utf-8-validation.py))
-- Greedy
-  - [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) ([code](leetcode/python/948-bag-of-tokens.py))
 - DP
   - [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) ([code](leetcode/python/188-best-time-to-buy-and-sell-stock-iv.py))
 
