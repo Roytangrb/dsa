@@ -206,5 +206,6 @@ Data Structure and Algorithm
 - DP
   - [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) ([code](leetcode/python/188-best-time-to-buy-and-sell-stock-iv.py))
   - [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) ([code](leetcode/python/1770-maximum-score-from-performing-multiplication-operations.py))
+  - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 
 </details>
