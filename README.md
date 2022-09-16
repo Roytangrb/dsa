@@ -205,5 +205,6 @@ Data Structure and Algorithm
   - [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) ([code](leetcode/python/393-utf-8-validation.py))
 - DP
   - [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) ([code](leetcode/python/188-best-time-to-buy-and-sell-stock-iv.py))
+  - [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) ([code](leetcode/python/1770-maximum-score-from-performing-multiplication-operations.py))
 
 </details>
