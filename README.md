@@ -41,6 +41,8 @@ Data Structure and Algorithm
 - Leftmost Bit Position
   - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) ([Base 2 Long Division](leetcode/python/29-divide-two-integers.py))
   - [Power of Four](https://leetcode.com/problems/power-of-four/) ([code](leetcode/python/342-power-of-four.py))
+- Is Power of 2 (popcount = 1)
+  - [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) ([code](leetcode/python/1680-concatenation-of-consecutive-binary-numbers.py))
 
 </details>
 
