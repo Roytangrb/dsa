@@ -134,6 +134,13 @@ Data Structure and Algorithm
 </details>
 
 <details>
+<summary>Queue</summary>
+
+- [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) ([code](leetcode/python/622-design-circular-queue.py))
+
+</details>
+
+<details>
 <summary>Sorting</summary>
 
 - Binary Search
