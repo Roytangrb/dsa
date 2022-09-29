@@ -148,6 +148,7 @@ Data Structure and Algorithm
 - Binary Search
   - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) ([code](leetcode/python/34-find-first-and-last-position-of-element-in-sorted-array.py))
   - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) ([code](leetcode/python/378-kth-smallest-element-in-a-sorted-matrix.py))
+  - [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) ([code](leetcode/python/658-find-k-closest-elements.py))
 - Longest Increasing Subsequence (LIS)
   - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) ([code](leetcode/python/300-longest-increasing-subsequence.py))
   - [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) ([DP/ O(nlogn) with Patience Sort](leetcode/python/354-russian-doll-envelopes.py))
