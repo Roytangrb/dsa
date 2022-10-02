@@ -225,5 +225,6 @@ Data Structure and Algorithm
   - [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) ([code](leetcode/python/718-maximum-length-of-repeated-subarray.py))
   - [Push Dominoes](https://leetcode.com/problems/push-dominoes/) ([code](leetcode/python/838-push-dominoes.py))
   - [Decode Ways](https://leetcode.com/problems/decode-ways/) ([code](leetcode/python/91-decode-ways.py))
+  - [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) ([code](leetcode/python/1155-number-of-dice-rolls-with-target-sum.py))
 
 </details>
