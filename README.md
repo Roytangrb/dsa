@@ -226,5 +226,7 @@ Data Structure and Algorithm
   - [Push Dominoes](https://leetcode.com/problems/push-dominoes/) ([code](leetcode/python/838-push-dominoes.py))
   - [Decode Ways](https://leetcode.com/problems/decode-ways/) ([code](leetcode/python/91-decode-ways.py))
   - [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) ([code](leetcode/python/1155-number-of-dice-rolls-with-target-sum.py))
+- Greedy
+  - [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) ([code](leetcode/python/1578-minimum-time-to-make-rope-colorful.py))
 
 </details>
