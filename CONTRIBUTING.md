@@ -26,10 +26,10 @@ python -m venv env
 * `Command-Shift-p` to select interpreter: `.env/bin/python`
 * Add `"python.terminal.activateEnvironment": true` to `.vscode/settings.json`
 
-### Install Deps
+### Install Dependencies
 
 ```sh
-make dev_deps
+make deps
 ```
 
 ### Lint/Format Code

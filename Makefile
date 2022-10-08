@@ -4,10 +4,13 @@ all:
 	find src -depth 1 -type f -name "*.py" -exec python {} ";"
 
 
-# Install or upgrade code formatting dependencies
-.PHONY: dev_deps
-dev_deps:
-	pip install --upgrade black isort
+# Install dependencies
+.PHONY: deps
+deps:
+	# Python source code dependencies
+	PIP_EXTRA_INDEX_URL= pip install -r requirements.txt
+	# Install or upgrade code formatting dependencies
+	PIP_EXTRA_INDEX_URL= pip install --upgrade black isort
 
 
 # Format codes
