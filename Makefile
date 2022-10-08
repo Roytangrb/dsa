@@ -17,7 +17,7 @@ deps:
 .PHONY: fmt
 fmt:
 	black .
-	isort .
+	isort --skip-glob env/* .
 	find ./leetcode/rust -type f -name "*.rs" -exec rustfmt {} +
 
 

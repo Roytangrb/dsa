@@ -5,10 +5,10 @@
 
 import sys
 
-sys.path.append("src")
+sys.path.append(".")
 
-from data_structures.fenwick_tree import FenwickTree
-from data_structures.segment_tree import SegmentTree
+from src.data_structures.fenwick_tree import FenwickTree
+from src.data_structures.segment_tree import SegmentTree
 
 
 class Solution:
