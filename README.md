@@ -167,6 +167,7 @@ Data Structure and Algorithm
 - Greedy Using Sort
   - [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) ([code](leetcode/python/948-bag-of-tokens.py))
   - [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) ([code](leetcode/python/2007-find-original-array-from-doubled-array.py))
+  - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) ([code](leetcode/python/976-largest-perimeter-triangle.py))
 
 </details>
 
