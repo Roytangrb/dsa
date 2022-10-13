@@ -116,6 +116,7 @@ Data Structure and Algorithm
   - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
   - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) ([code](leetcode/python/287-find-the-duplicate-number.py))
 - [My Calendar I](https://leetcode.com/problems/my-calendar-i/) ([code](leetcode/python/729-my-calendar-i.py))
+- [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) ([code](leetcode/python/237-delete-node-in-a-linked-list.py))
 
 </details>
 
