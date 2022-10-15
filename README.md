@@ -233,6 +233,7 @@ Data Structure and Algorithm
   - [Decode Ways](https://leetcode.com/problems/decode-ways/) ([code](leetcode/python/91-decode-ways.py))
   - [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) ([code](leetcode/python/1155-number-of-dice-rolls-with-target-sum.py))
   - [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) ([code](leetcode/python/334-increasing-triplet-subsequence.py))
+  - [String Compression II](https://leetcode.com/problems/string-compression-ii/) ([code](leetcode/python/1531-string-compression-ii.py))
 - Greedy
   - [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) ([code](leetcode/python/1578-minimum-time-to-make-rope-colorful.py))
   - [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) ([code](leetcode/python/1328-break-a-palindrome.py))
