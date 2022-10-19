@@ -86,6 +86,7 @@ Data Structure and Algorithm
 <details>
 <summary>Heap/Priority Queue</summary>
 
+- [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) ([code](leetcode/python/692-top-k-frequent-words.py))
 - [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) ([code](leetcode/python/1354-construct-target-array-with-multiple-sums.py))
 - [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) ([code](leetcode/python/630-course-schedule-iii.py))
 - [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) ([code](leetcode/python/1338-reduce-array-size-to-the-half.py))
