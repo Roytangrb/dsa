@@ -23,6 +23,7 @@ Data Structure and Algorithm
 - Fenwick Tree/Segment Tree
   - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) ([code](leetcode/python/307-range-sum-query-mutable.py))
   - [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) ([code](leetcode/python/315-count-of-smaller-numbers-after-self.py))
+  - [My Calendar III](https://leetcode.com/problems/my-calendar-iii/)
 - Self-balancing Trees
   - [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) ([code](leetcode/python/981-time-based-key-value-store.py))
 - Lowest Common Ancestor (LCA)
@@ -239,5 +240,6 @@ Data Structure and Algorithm
 - Greedy
   - [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) ([code](leetcode/python/1578-minimum-time-to-make-rope-colorful.py))
   - [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) ([code](leetcode/python/1328-break-a-palindrome.py))
+  - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) ([code](leetcode/python/12-integer-to-roman.py))
 
 </details>
