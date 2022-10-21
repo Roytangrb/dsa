@@ -85,6 +85,13 @@ Data Structure and Algorithm
 </details>
 
 <details>
+<summary>Hash Map</summary>
+
+- [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) ([code](leetcode/python/219-contains-duplicate-ii.py))
+
+</details>
+
+<details>
 <summary>Heap/Priority Queue</summary>
 
 - [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) ([code](leetcode/python/692-top-k-frequent-words.py))
