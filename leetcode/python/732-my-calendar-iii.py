@@ -3,10 +3,14 @@
 # URL: https://leetcode.com/problems/my-calendar-iii/
 
 
+from collections import Counter
+
 from sortedcontainers import SortedDict
 
 
 class MyCalendarThree:
+    """O(n) Sweep-line algorithm"""
+
     def __init__(self):
         # {[time t]: delta of overlap count at time t}
         self.delta = SortedDict()
@@ -22,3 +26,51 @@ class MyCalendarThree:
             ans = max(ans, cnt)
 
         return ans
+
+
+class MyCalendarThreeSegmentTree:
+    """O(nlogC) with segment tree where n = no. of book calls, C = max event time range"""
+
+    def __init__(self):
+        # events are sparsed in the [0, 1e9], store only segments that
+        # have values using hashmap
+        # vals: max number of overlaps within [start, end)
+        # When parent segment with id = idx
+        # Left child = segment [start, mid], id = idx * 2
+        # Right child = segment [mid+1, end-1], id = idx * 2 + 1
+        # i.e., vals[1] = answer, i.e. max number of overlaps within [0, 1e9]
+        # i.e., vals[2] = answer, i.e. max number of overlaps within [0, 1e9 // 2]
+        # i.e., vals[3] = answer, i.e. max number of overlaps within [1e9 // 2 + 1, 1e9]
+        self.vals = Counter()
+        # vals[idx] = shared[idx] + max(vals[idx * 2], vals[idx * 2 + 1])
+        # shared[idx] represents count of events that cover the full range of segment idx
+        # i.e. lazy count that are not propagate to children's vals but counted upon query
+        self.shared = Counter()
+
+    def update(
+        self,
+        event_start: int,
+        event_end: int,
+        seg_left: int = 0,
+        seg_right: int = 10**9,
+        segment_id: int = 1,
+    ):
+        if event_end < seg_left or event_start > seg_right:
+            return
+
+        if event_start <= seg_left <= seg_right <= event_end:
+            # event cover the whole segment, update shared count for children segments
+            self.vals[segment_id] += 1
+            self.shared[segment_id] += 1
+        else:
+            mid = (seg_left + seg_right) // 2
+            self.update(event_start, event_end, seg_left, mid, segment_id * 2)
+            self.update(event_start, event_end, mid + 1, seg_right, segment_id * 2 + 1)
+            self.vals[segment_id] = self.shared[segment_id] + max(
+                self.vals[segment_id * 2], self.vals[segment_id * 2 + 1]
+            )
+
+    def book(self, startTime: int, endTime: int) -> int:
+        # 0 <= startTime <= endTime <= 1e9
+        self.update(startTime, endTime - 1)
+        return self.vals[1]
