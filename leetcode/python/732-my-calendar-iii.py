@@ -5,7 +5,7 @@
 
 from collections import Counter
 
-from sortedcontainers import SortedDict
+from sortedcontainers import SortedDict, SortedList
 
 
 class MyCalendarThree:
@@ -74,3 +74,34 @@ class MyCalendarThreeSegmentTree:
         # 0 <= startTime <= endTime <= 1e9
         self.update(startTime, endTime - 1)
         return self.vals[1]
+
+
+class MyCalendarThreeBalancedTree:
+    """Split range with balanced tree (Chtholly Tree)
+    
+    O(n2) worst case when every event covers all previous events.
+    https://docs.rs/chtholly_tree/latest/chtholly_tree/
+    """
+
+    def __init__(self):
+        self.stops = SortedList([0, 10**9])
+        self.counts = Counter()
+        self.max_count = 0
+
+    def split(self, stop: int):
+        """Split range by adding a stop if not exists"""
+        idx = self.stops.bisect_left(stop)
+        if stop != self.stops[idx]:
+            self.counts[stop] = self.counts[self.stops[idx - 1]]
+            self.stops.add(stop)
+
+    def book(self, startTime: int, endTime: int) -> int:
+        """Split the range [0, 1e9] into smaller intervals after adding a new event
+        increment count of split intervals between [start, end)."""
+        self.split(startTime)
+        self.split(endTime)
+        for stop in self.stops.irange(startTime, endTime, inclusive=(True, False)):
+            self.counts[stop] += 1
+            self.max_count = max(self.max_count, self.counts[stop])
+
+        return self.max_count
