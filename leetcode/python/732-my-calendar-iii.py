@@ -78,7 +78,7 @@ class MyCalendarThreeSegmentTree:
 
 class MyCalendarThreeBalancedTree:
     """Split range with balanced tree (Chtholly Tree)
-    
+
     O(n2) worst case when every event covers all previous events.
     https://docs.rs/chtholly_tree/latest/chtholly_tree/
     """

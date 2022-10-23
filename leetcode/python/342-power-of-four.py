@@ -8,5 +8,5 @@ import math
 
 class Solution:
     def isPowerOfFour(self, n: int) -> bool:
-        # n is not 0 and n has only 1 set bit and leftshofted by multiple of 2
+        # n is not 0 and n has only 1 set bit and leftshifted by multiple of 2
         return bool(n) and n == n & ~(n - 1) and math.log2(n) % 2 == 0
