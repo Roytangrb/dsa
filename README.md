@@ -113,6 +113,7 @@ Data Structure and Algorithm
 
 - Peeking Iterator
   - [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) ([code](src/iter_nested_list.py))
+- [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) ([code](leetcode/python/1662-check-if-two-string-arrays-are-equivalent.py))
 
 </details>
 
