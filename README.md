@@ -92,6 +92,7 @@ Data Structure and Algorithm
 <summary>Hash Map</summary>
 
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) ([code](leetcode/python/219-contains-duplicate-ii.py))
+- [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) ([code](leetcode/python/523-continuous-subarray-sum.py))
 
 </details>
 
