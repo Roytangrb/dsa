@@ -39,6 +39,7 @@ Data Structure and Algorithm
 - Bitset
   - [Maximum Product of Word Lenghts](https://leetcode.com/problems/maximum-product-of-word-lengths/) ([code](leetcode/python/318-maximum-product-of-word-lengths.py))
   - [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) ([code](leetcode/python/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py))
+  - [Image Overlap](https://leetcode.com/problems/image-overlap/) ([code](leetcode/python/835-image-overlap.py))
 - Unset Rightmost Bit
   - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) ([code](leetcode/python/191-number-of-1-bits.py))
 - Unset Leftmost Bit
@@ -151,6 +152,8 @@ Data Structure and Algorithm
 - Yale Format
   - [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) ([code](src/yale_format.py))
 - [Rotate Image](https://leetcode.com/problems/rotate-image/) ([code](leetcode/python/48-rotate-image.py))
+- [Image Overlap](https://leetcode.com/problems/image-overlap/) ([code](leetcode/python/835-image-overlap.py))
+
 
 </details>
 
