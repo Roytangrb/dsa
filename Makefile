@@ -16,15 +16,17 @@ deps:
 # Format codes
 .PHONY: fmt
 fmt:
+	@ echo "Formating Python..."
 	black .
 	isort --skip-glob env/* .
-	find ./leetcode/rust -type f -name "*.rs" -exec rustfmt {} +
+	@ echo "Formating Rust..."
+	@ find ./leetcode/rust -type f -name "*.rs" -exec rustfmt {} +
 
 
 # Clean temp or output files
 .PHONY: clean
 clean:
-	find . -type d -name  "__pycache__" -exec rm -r {} +
+	@ find . -type d -name  "__pycache__" -exec rm -r {} +
 
 
 # Move my leetcode solutions files downloaded
