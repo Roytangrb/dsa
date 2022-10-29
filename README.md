@@ -107,6 +107,7 @@ Data Structure and Algorithm
 - [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) ([code](leetcode/python/659-split-array-into-consecutive-subsequences.py))
 - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) ([code](leetcode/python/871-minimum-number-of-refueling-stops.py))
 - [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) ([code](leetcode/python/1383-maximum-performance-of-a-team.py))
+- [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) ([code](leetcode/python/2136-earliest-possible-day-of-full-bloom.py))
 
 </details>
 
