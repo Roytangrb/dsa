@@ -41,9 +41,9 @@ LC_FILENAME_REGEX := .*\/[0-9]\{1,4\}[-[:alnum:]]\{1,\}
 
 .PHONY: mv_py
 mv_py:
-	find ~/Downloads -depth 1 -type f -regex "$(LC_FILENAME_REGEX)\.py" -exec mv -f -v {} ./leetcode/python ";"
+	@ find ~/Downloads -depth 1 -type f -regex "$(LC_FILENAME_REGEX)\.py" -exec mv -f -v {} ./leetcode/python ";"
 
 
 .PHONY: mv_rs
 mv_rs:
-	find ~/Downloads -depth 1 -type f -regex "$(LC_FILENAME_REGEX)\.rs" -exec mv -f -v {} ./leetcode/rust ";"
+	@ find ~/Downloads -depth 1 -type f -regex "$(LC_FILENAME_REGEX)\.rs" -exec mv -f -v {} ./leetcode/rust ";"
