@@ -62,6 +62,7 @@ Data Structure and Algorithm
 - BFS Unweighted Shortest Path
   - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
   - [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) ([code](leetcode/python/126-word-ladder-ii.py))
+  - [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) ([code](leetcode/python/1293-shortest-path-in-a-grid-with-obstacles-elimination.py))
 - Dijkstra Shortest Path
   - [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) ([code](src/dijkstra.py))
   - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
@@ -154,7 +155,6 @@ Data Structure and Algorithm
   - [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) ([code](src/yale_format.py))
 - [Rotate Image](https://leetcode.com/problems/rotate-image/) ([code](leetcode/python/48-rotate-image.py))
 - [Image Overlap](https://leetcode.com/problems/image-overlap/) ([code](leetcode/python/835-image-overlap.py))
-
 
 </details>
 
