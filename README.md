@@ -155,6 +155,7 @@ Data Structure and Algorithm
   - [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) ([code](src/yale_format.py))
 - [Rotate Image](https://leetcode.com/problems/rotate-image/) ([code](leetcode/python/48-rotate-image.py))
 - [Image Overlap](https://leetcode.com/problems/image-overlap/) ([code](leetcode/python/835-image-overlap.py))
+- [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) ([code](leetcode/python/766-toeplitz-matrix.py))
 
 </details>
 
