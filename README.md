@@ -63,6 +63,7 @@ Data Structure and Algorithm
   - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
   - [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) ([code](leetcode/python/126-word-ladder-ii.py))
   - [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) ([code](leetcode/python/1293-shortest-path-in-a-grid-with-obstacles-elimination.py))
+  - [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) ([code](leetcode/python/433-minimum-genetic-mutation.py))
 - Dijkstra Shortest Path
   - [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) ([code](src/dijkstra.py))
   - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
