@@ -262,5 +262,6 @@ Data Structure and Algorithm
   - [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) ([code](leetcode/python/1578-minimum-time-to-make-rope-colorful.py))
   - [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) ([code](leetcode/python/1328-break-a-palindrome.py))
   - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) ([code](leetcode/python/12-integer-to-roman.py))
+  - [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) ([code](leetcode/python/2131-longest-palindrome-by-concatenating-two-letter-words.py))
 
 </details>
