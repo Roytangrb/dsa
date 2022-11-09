@@ -201,6 +201,7 @@ Data Structure and Algorithm
   - [132 Pattern](https://leetcode.com/problems/132-pattern/) ([code](src/find_132_pattern.py))
   - [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) ([code](leetcode/python/1696-jump-game-vi.py))
   - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) ([code](leetcode/python/42-trapping-rain-water.py))
+  - [Online Stock Span](https://leetcode.com/problems/online-stock-span/) ([code](leetcode/python/901-online-stock-span.py))
 - [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) ([code](leetcode/python/32-longest-valid-parentheses.py))
 
