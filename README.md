@@ -187,6 +187,7 @@ Data Structure and Algorithm
   - [Find Two Swapped in Sorted Array](https://www.geeksforgeeks.org/sort-an-almost-sorted-array-where-only-two-elements-are-swapped/) ([code](src/find_swapped.py))
   - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ([code](leetcode/python/88-merge-sorted-array.py))
   - [3Sum Closest](https://leetcode.com/problems/3sum-closest/) ([code](leetcode/python/16-3sum-closest.py))
+  - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) ([code](leetcode/python/26-remove-duplicates-from-sorted-array.py))
 - Greedy Using Sort
   - [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) ([code](leetcode/python/948-bag-of-tokens.py))
   - [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) ([code](leetcode/python/2007-find-original-array-from-doubled-array.py))
