@@ -110,6 +110,7 @@ Data Structure and Algorithm
 - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) ([code](leetcode/python/871-minimum-number-of-refueling-stops.py))
 - [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) ([code](leetcode/python/1383-maximum-performance-of-a-team.py))
 - [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) ([code](leetcode/python/2136-earliest-possible-day-of-full-bloom.py))
+- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) ([code](leetcode/python/295-find-median-from-data-stream.py))
 
 </details>
 
