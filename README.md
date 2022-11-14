@@ -74,6 +74,7 @@ Data Structure and Algorithm
   - [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
   - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
   - [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) ([code](leetcode/python/990-satisfiability-of-equality-equations.py))
+  - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) ([code](leetcode/python/947-most-stones-removed-with-same-row-or-column.py))
 - Bridge of Graph
   - [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) ([Tarjan's bridge finding](src/tarjan_bridge_finding.py))
 - Minimum Spanning Tree
