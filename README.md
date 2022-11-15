@@ -20,6 +20,8 @@ Data Structure and Algorithm
 - BFS Traversal
   - [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
   - [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
+- Binary Search
+  - [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) ([code](leetcode/python/222-count-complete-tree-nodes.py))
 - Fenwick Tree/Segment Tree
   - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) ([code](leetcode/python/307-range-sum-query-mutable.py))
   - [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) ([code](leetcode/python/315-count-of-smaller-numbers-after-self.py))
