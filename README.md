@@ -248,8 +248,9 @@ Data Structure and Algorithm
   - [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) ([code](leetcode/python/473-matchsticks-to-square.py))
 - Information Theory
   - [Poor Pigs](https://leetcode.com/problems/poor-pigs/) ([code](leetcode/python/458-poor-pigs.py))
-- Math
-  - [Ugly Number](https://leetcode.com/problems/ugly-number/description/) ([code](leetcode/python/263-ugly-number.py))
+- Math & Geometry
+  - [Ugly Number](https://leetcode.com/problems/ugly-number/) ([code](leetcode/python/263-ugly-number.py))
+  - [Rectangle Area](https://leetcode.com/problems/rectangle-area/) ([code](leetcode/python/223-rectangle-area.py))
 - Permutation
   - [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) ([code](leetcode/python/377-combination-sum-iv.py))
   - [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) ([code](leetcode/python/1220-count-vowels-permutation.py))
