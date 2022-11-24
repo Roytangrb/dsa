@@ -94,6 +94,7 @@ Data Structure and Algorithm
   - [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) ([code](leetcode/python/576-out-of-boundary-paths.py))
 - Traversal
   - [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) ([code](leetcode/python/417-pacific-atlantic-water-flow.py))
+  - [Word Search](https://leetcode.com/problems/word-search/) ([code](leetcode/python/79-word-search.py))
 
 </details>
 
