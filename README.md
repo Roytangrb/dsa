@@ -211,6 +211,8 @@ Data Structure and Algorithm
   - [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) ([code](leetcode/python/1696-jump-game-vi.py))
   - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) ([code](leetcode/python/42-trapping-rain-water.py))
   - [Online Stock Span](https://leetcode.com/problems/online-stock-span/) ([code](leetcode/python/901-online-stock-span.py))
+  - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) ([code](leetcode/python/84-largest-rectangle-in-histogram.py))
+  - [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) ([code](leetcode/python/907-sum-of-subarray-minimums.py))
 - [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) ([code](leetcode/python/32-longest-valid-parentheses.py))
 
