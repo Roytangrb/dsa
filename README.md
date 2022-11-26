@@ -251,6 +251,8 @@ Data Structure and Algorithm
 <summary>Others</summary>
 
 - [Bin Packing](https://en.wikipedia.org/wiki/Bin_packing_problem)
+  - [0-1 Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem#0-1_knapsack_problem)
+    - [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) ([code](leetcode/python/1235-maximum-profit-in-job-scheduling.py))
   - [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) ([code](leetcode/python/473-matchsticks-to-square.py))
 - Information Theory
   - [Poor Pigs](https://leetcode.com/problems/poor-pigs/) ([code](leetcode/python/458-poor-pigs.py))
