@@ -141,6 +141,7 @@ Data Structure and Algorithm
   - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) ([code](leetcode/python/234-palindrome-linked-list.py))
   - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ([code](leetcode/python/19-remove-nth-node-from-end-of-list.py))
   - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) ([code](leetcode/python/2095-delete-the-middle-node-of-a-linked-list.py))
+  - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) ([code](leetcode/python/328-odd-even-linked-list.py))
 - Floyd’s Tortoise and Hare
   - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ([code](leetcode/python/141-linked-list-cycle.py))
   - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
