@@ -18,6 +18,7 @@ Data Structure and Algorithm
   - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ([code](leetcode/python/108-convert-sorted-array-to-binary-search-tree.py))
   - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) ([code](leetcode/python/98-validate-binary-search-tree.py))
   - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) ([code](leetcode/python/872-leaf-similar-trees.py))
+  - [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) ([code](leetcode/python/1339-maximum-product-of-splitted-binary-tree.py))
 - BFS Traversal
   - [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
   - [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
