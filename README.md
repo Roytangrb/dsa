@@ -228,6 +228,7 @@ Data Structure and Algorithm
 
 - Longest Common Subsequence (LCS)
   - [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) ([code](leetcode/python/583-delete-operation-for-two-strings.py))
+  - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) ([code](leetcode/python/1143-longest-common-subsequence.py))
 - Hashmap
   - [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) ([code](leetcode/python/890-find-and-replace-pattern.py), same as [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/))
   - [Word Subsets](https://leetcode.com/problems/word-subsets/) ([code](leetcode/python/916-word-subsets.py))
