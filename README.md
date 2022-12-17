@@ -274,6 +274,7 @@ Data Structure and Algorithm
 - Parsing
   - [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) ([code](leetcode/python/393-utf-8-validation.py))
   - [Basic Calculator](https://leetcode.com/problems/basic-calculator/) ([code](leetcode/python/224-basic-calculator.py))
+  - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ([code](leetcode/python/150-evaluate-reverse-polish-notation.py))
 - DP
   - [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) ([code](leetcode/python/188-best-time-to-buy-and-sell-stock-iv.py))
   - [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) ([code](leetcode/python/1770-maximum-score-from-performing-multiplication-operations.py))
