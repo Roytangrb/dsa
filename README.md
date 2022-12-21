@@ -63,6 +63,7 @@ Data Structure and Algorithm
 
 - [Bipartite Graph](https://en.wikipedia.org/wiki/Bipartite_graph)
   - [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) ([code](src/bipartiteness.py))
+  - [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) ([code](leetcode/python/886-possible-bipartition.py))
 - BFS Unweighted Shortest Path
   - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
   - [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) ([code](leetcode/python/126-word-ladder-ii.py))
