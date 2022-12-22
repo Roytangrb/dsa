@@ -98,6 +98,8 @@ Data Structure and Algorithm
 - Traversal
   - [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) ([code](leetcode/python/417-pacific-atlantic-water-flow.py))
   - [Word Search](https://leetcode.com/problems/word-search/) ([code](leetcode/python/79-word-search.py))
+- Tree
+  - [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) ([code](leetcode/python/834-sum-of-distances-in-tree.py))
 
 </details>
 
