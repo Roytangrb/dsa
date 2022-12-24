@@ -286,6 +286,7 @@ Data Structure and Algorithm
   - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
   - [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) ([code](leetcode/python/718-maximum-length-of-repeated-subarray.py))
   - [Push Dominoes](https://leetcode.com/problems/push-dominoes/) ([code](leetcode/python/838-push-dominoes.py))
+  - [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) ([code](leetcode/python/790-domino-and-tromino-tiling.py))
   - [Decode Ways](https://leetcode.com/problems/decode-ways/) ([code](leetcode/python/91-decode-ways.py))
   - [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) ([code](leetcode/python/1155-number-of-dice-rolls-with-target-sum.py))
   - [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) ([code](leetcode/python/334-increasing-triplet-subsequence.py))
