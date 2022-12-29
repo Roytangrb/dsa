@@ -125,6 +125,7 @@ Data Structure and Algorithm
 - [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) ([code](leetcode/python/1383-maximum-performance-of-a-team.py))
 - [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) ([code](leetcode/python/2136-earliest-possible-day-of-full-bloom.py))
 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) ([code](leetcode/python/295-find-median-from-data-stream.py))
+- [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) ([code](leetcode/python/1834-single-threaded-cpu.py))
 
 </details>
 
