@@ -85,6 +85,8 @@ Data Structure and Algorithm
   - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
   - [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) ([code](leetcode/python/990-satisfiability-of-equality-equations.py))
   - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) ([code](leetcode/python/947-most-stones-removed-with-same-row-or-column.py))
+- [Hamiltonian Path](https://en.wikipedia.org/wiki/Hamiltonian_path)
+  - [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) ([code](leetcode/python/980-unique-paths-iii.py))
 - Minimum Spanning Tree
   - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
     - [Kruskal's Algorithm](src/kruskal_mst.py) with union find
