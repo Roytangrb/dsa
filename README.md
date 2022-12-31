@@ -70,6 +70,8 @@ Data Structure and Algorithm
   - [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) ([code](leetcode/python/1293-shortest-path-in-a-grid-with-obstacles-elimination.py))
   - [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) ([code](leetcode/python/433-minimum-genetic-mutation.py))
   - [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) ([code](leetcode/python/1926-nearest-exit-from-entrance-in-maze.py))
+- Bridge of Graph
+  - [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) ([Tarjan's bridge finding](src/tarjan_bridge_finding.py))
 - Convex Hull
   - [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) ([code](leetcode/python/587-erect-the-fence.py))
 - Dijkstra Shortest Path
@@ -83,8 +85,6 @@ Data Structure and Algorithm
   - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
   - [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) ([code](leetcode/python/990-satisfiability-of-equality-equations.py))
   - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) ([code](leetcode/python/947-most-stones-removed-with-same-row-or-column.py))
-- Bridge of Graph
-  - [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) ([Tarjan's bridge finding](src/tarjan_bridge_finding.py))
 - Minimum Spanning Tree
   - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
     - [Kruskal's Algorithm](src/kruskal_mst.py) with union find
