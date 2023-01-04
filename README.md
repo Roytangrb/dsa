@@ -273,6 +273,7 @@ Data Structure and Algorithm
 - Math & Geometry
   - [Ugly Number](https://leetcode.com/problems/ugly-number/) ([code](leetcode/python/263-ugly-number.py))
   - [Rectangle Area](https://leetcode.com/problems/rectangle-area/) ([code](leetcode/python/223-rectangle-area.py))
+  - [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) ([code](leetcode/python/2244-minimum-rounds-to-complete-all-tasks.py))
 - Permutation
   - [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) ([code](leetcode/python/377-combination-sum-iv.py))
   - [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) ([code](leetcode/python/1220-count-vowels-permutation.py))
