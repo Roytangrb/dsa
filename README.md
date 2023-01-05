@@ -305,5 +305,6 @@ Data Structure and Algorithm
   - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) ([code](leetcode/python/12-integer-to-roman.py))
   - [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) ([code](leetcode/python/2131-longest-palindrome-by-concatenating-two-letter-words.py))
   - [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) ([code](leetcode/python/2389-longest-subsequence-with-limited-sum.py))
+  - [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) ([code](leetcode/python/452-minimum-number-of-arrows-to-burst-balloons.py))
 
 </details>
