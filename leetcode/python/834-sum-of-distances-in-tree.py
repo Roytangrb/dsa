@@ -4,14 +4,8 @@
 
 
 from collections import defaultdict
-from dataclasses import dataclass, field
 
-
-@dataclass
-class NaryTreeNode:
-    val: int
-    children: list = field(default_factory=list)
-    subtree_size: int = 0
+from .types import NaryTreeNode
 
 
 class Solution:

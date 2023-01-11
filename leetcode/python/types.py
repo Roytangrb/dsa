@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import Optional
 
 
@@ -13,3 +13,10 @@ class TreeNode:
 class ListNode:
     val: int
     next: Optional["ListNode"] = None
+
+
+@dataclass
+class NaryTreeNode:
+    val: int
+    children: list = field(default_factory=list)
+    subtree_size: int = 0
