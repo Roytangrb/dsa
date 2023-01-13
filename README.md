@@ -102,6 +102,7 @@ Data Structure and Algorithm
   - [Word Search](https://leetcode.com/problems/word-search/) ([code](leetcode/python/79-word-search.py))
 - Tree
   - [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) ([code](leetcode/python/834-sum-of-distances-in-tree.py))
+  - [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) ([code](leetcode/python/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.py))
 
 </details>
 
