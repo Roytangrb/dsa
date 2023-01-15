@@ -86,6 +86,7 @@ Data Structure and Algorithm
   - [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) ([code](leetcode/python/990-satisfiability-of-equality-equations.py))
   - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) ([code](leetcode/python/947-most-stones-removed-with-same-row-or-column.py))
   - [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) ([code](leetcode/python/1061-lexicographically-smallest-equivalent-string.py))
+  - [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/) ([code](leetcode/python/2421-number-of-good-paths.py))
 - [Hamiltonian Path](https://en.wikipedia.org/wiki/Hamiltonian_path)
   - [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) ([code](leetcode/python/980-unique-paths-iii.py))
 - Minimum Spanning Tree
