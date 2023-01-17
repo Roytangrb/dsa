@@ -304,6 +304,7 @@ Data Structure and Algorithm
   - [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
   - [Arithmetic Slices II](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) ([code](leetcode))
   - [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) ([code](leetcode/python/931-minimum-falling-path-sum.py))
+  - [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) ([code](leetcode/python/926-flip-string-to-monotone-increasing.py))
 - Greedy
   - [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) ([code](leetcode/python/1578-minimum-time-to-make-rope-colorful.py))
   - [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) ([code](leetcode/python/1328-break-a-palindrome.py))
