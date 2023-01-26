@@ -1,4 +1,4 @@
-"""Dijkstra algorithm, single source shortest-path algorithmfor directed graph
+"""Dijkstra algorithm, single source shortest-path algorithm for directed graph
 with non-negative edge weights.
 
 https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/
