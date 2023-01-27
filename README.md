@@ -239,6 +239,8 @@ Data Structure and Algorithm
 <details>
 <summary>String Search & Pattern Matching</summary>
 
+- DP
+  - [Word Break](https://leetcode.com/problems/word-break/) ([code](leetcode/python/139-word-break.py))
 - Longest Common Subsequence (LCS)
   - [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) ([code](leetcode/python/583-delete-operation-for-two-strings.py))
   - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) ([code](leetcode/python/1143-longest-common-subsequence.py))
