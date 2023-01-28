@@ -198,6 +198,7 @@ Data Structure and Algorithm
   - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) ([code](leetcode/python/378-kth-smallest-element-in-a-sorted-matrix.py))
   - [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) ([code](leetcode/python/658-find-k-closest-elements.py))
   - [Insert Interval](https://leetcode.com/problems/insert-interval/) ([code](leetcode/python/57-insert-interval.py))
+  - [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) ([code](leetcode/python/352-data-stream-as-disjoint-intervals.py))
 - Longest Increasing Subsequence (LIS)
   - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) ([code](leetcode/python/300-longest-increasing-subsequence.py))
   - [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) ([DP/ O(nlogn) with Patience Sort](leetcode/python/354-russian-doll-envelopes.py))
