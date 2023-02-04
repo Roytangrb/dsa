@@ -175,6 +175,8 @@ Data Structure and Algorithm
 - Search Space Reduction
   - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) ([code](leetcode/python/240-search-a-2d-matrix-ii.py))
   - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) ([code](leetcode/python/378-kth-smallest-element-in-a-sorted-matrix.py))
+- Spiral Matrix
+  - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) ([code](leetcode/python/6-zigzag-conversion.py))
 - Yale Format
   - [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) ([code](src/yale_format.py))
 - [Rotate Image](https://leetcode.com/problems/rotate-image/) ([code](leetcode/python/48-rotate-image.py))
