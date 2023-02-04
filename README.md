@@ -259,6 +259,7 @@ Data Structure and Algorithm
   - [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ([code](leetcode/python/30-substring-with-concatenation-of-all-words.py))
   - [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) ([code](leetcode/python/718-maximum-length-of-repeated-subarray.py))
   - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) ([code](leetcode/python/76-minimum-window-substring.py))
+  - [Permutation in String](https://leetcode.com/problems/permutation-in-string/) ([code](leetcode/python/567-permutation-in-string.py))
 - Trie
   - [Design File System](https://leetcode.com/problems/design-file-system/) ([code](src/file_system.py))
   - [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) ([code](leetcode/python/745-prefix-and-suffix-search.py))
