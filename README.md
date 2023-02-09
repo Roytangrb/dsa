@@ -253,6 +253,7 @@ Data Structure and Algorithm
   - [Word Subsets](https://leetcode.com/problems/word-subsets/) ([code](leetcode/python/916-word-subsets.py))
   - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) ([code](leetcode/python/974-subarray-sums-divisible-by-k.py))
   - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ([code](leetcode/python/438-find-all-anagrams-in-a-string.py))
+  - [Naming a Company](https://leetcode.com/problems/naming-a-company/) ([code](leetcode/python/2306-naming-a-company.py))
 - Rolling Hash
   - [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) ([code](leetcode/python/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py))
 - Sliding Window
