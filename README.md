@@ -70,6 +70,7 @@ Data Structure and Algorithm
   - [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) ([code](leetcode/python/1293-shortest-path-in-a-grid-with-obstacles-elimination.py))
   - [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) ([code](leetcode/python/433-minimum-genetic-mutation.py))
   - [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) ([code](leetcode/python/1926-nearest-exit-from-entrance-in-maze.py))
+  - [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) ([code](leetcode/python/1162-as-far-from-land-as-possible.py))
 - Bridge of Graph
   - [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) ([Tarjan's bridge finding](src/tarjan_bridge_finding.py))
 - Convex Hull
