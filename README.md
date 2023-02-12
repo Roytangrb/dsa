@@ -108,6 +108,7 @@ Data Structure and Algorithm
 - Tree
   - [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) ([code](leetcode/python/834-sum-of-distances-in-tree.py))
   - [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) ([code](leetcode/python/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.py))
+  - [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) ([code](leetcode/python/2477-minimum-fuel-cost-to-report-to-the-capital.py))
 
 </details>
 
