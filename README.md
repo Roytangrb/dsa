@@ -55,6 +55,7 @@ Data Structure and Algorithm
   - [Set Mismatch](https://leetcode.com/problems/set-mismatch/) ([code](leetcode/python/645-set-mismatch.py))
 - Is Power of 2 (popcount = 1)
   - [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) ([code](leetcode/python/1680-concatenation-of-consecutive-binary-numbers.py))
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) ([code](leetcode/python/540-single-element-in-a-sorted-array.py))
 
 </details>
 
