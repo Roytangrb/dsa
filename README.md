@@ -142,6 +142,7 @@ Data Structure and Algorithm
 - [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) ([code](leetcode/python/2136-earliest-possible-day-of-full-bloom.py))
 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) ([code](leetcode/python/295-find-median-from-data-stream.py))
 - [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) ([code](leetcode/python/1834-single-threaded-cpu.py))
+- [IPO](https://leetcode.com/problems/ipo/) ([code](leetcode/python/502-ipo.py))
 
 </details>
 
