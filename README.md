@@ -143,6 +143,7 @@ Data Structure and Algorithm
 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) ([code](leetcode/python/295-find-median-from-data-stream.py))
 - [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) ([code](leetcode/python/1834-single-threaded-cpu.py))
 - [IPO](https://leetcode.com/problems/ipo/) ([code](leetcode/python/502-ipo.py))
+- [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) ([code](leetcode/python/1675-minimize-deviation-in-array.py))
 
 </details>
 
