@@ -40,6 +40,7 @@ Data Structure and Algorithm
 - Lowest Common Ancestor (LCA)
   - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) ([code](leetcode/python/236-lowest-common-ancestor-of-a-binary-tree.py))
   - [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) ([code](leetcode/python/235-lowest-common-ancestor-of-a-binary-search-tree.py))
+- [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) ([code](leetcode/python/652-find-duplicate-subtrees.py))
 
 </details>
 
