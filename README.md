@@ -224,6 +224,7 @@ Data Structure and Algorithm
   - [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) ([code](leetcode/python/462-minimum-moves-to-equal-array-elements-ii.py))
 - Quicksort
   - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) ([code](src/quicksort.py))
+  - [Sort an Array](https://leetcode.com/problems/sort-an-array/) ([code](leetcode/python/912-sort-an-array.py))
 - Two Pointers
   - [Find Two Swapped in Sorted Array](https://www.geeksforgeeks.org/sort-an-almost-sorted-array-where-only-two-elements-are-swapped/) ([code](src/find_swapped.py))
   - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ([code](leetcode/python/88-merge-sorted-array.py))
