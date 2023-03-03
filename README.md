@@ -272,6 +272,7 @@ Data Structure and Algorithm
   - [Naming a Company](https://leetcode.com/problems/naming-a-company/) ([code](leetcode/python/2306-naming-a-company.py))
 - Rolling Hash
   - [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) ([code](leetcode/python/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py))
+  - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) ([code](leetcode/python/28-find-the-index-of-the-first-occurrence-in-a-string.py))
 - Sliding Window
   - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([code](leetcode/python/3-longest-substring-without-repeating-characters.py))
   - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) ([code](leetcode/python/904-fruit-into-baskets.py))
