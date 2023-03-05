@@ -80,6 +80,7 @@ Data Structure and Algorithm
   - [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) ([code](leetcode/python/1926-nearest-exit-from-entrance-in-maze.py))
   - [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) ([code](leetcode/python/1162-as-far-from-land-as-possible.py))
   - [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) ([code](leetcode/python/1129-shortest-path-with-alternating-colors.py))
+  - [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) ([code](leetcode/python/1345-jump-game-iv.py))
 - Bridge of Graph
   - [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) ([Tarjan's bridge finding](src/tarjan_bridge_finding.py))
 - Convex Hull
