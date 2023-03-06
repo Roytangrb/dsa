@@ -223,6 +223,7 @@ Data Structure and Algorithm
   - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) ([code](leetcode/python/215-kth-largest-element-in-an-array.py))
   - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) ([code](src/quickselect.py))
   - [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) ([code](leetcode/python/462-minimum-moves-to-equal-array-elements-ii.py))
+  - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) ([code](leetcode/python/1539-kth-missing-positive-number.py))
 - Quicksort
   - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) ([code](src/quicksort.py))
   - [Sort an Array](https://leetcode.com/problems/sort-an-array/) ([code](leetcode/python/912-sort-an-array.py))
