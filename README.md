@@ -217,6 +217,7 @@ Data Structure and Algorithm
   - [Insert Interval](https://leetcode.com/problems/insert-interval/) ([code](leetcode/python/57-insert-interval.py))
   - [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) ([code](leetcode/python/352-data-stream-as-disjoint-intervals.py))
   - [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) ([code](leetcode/python/2187-minimum-time-to-complete-trips.py))
+  - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) ([code](leetcode/python/875-koko-eating-bananas.py))
 - Longest Increasing Subsequence (LIS)
   - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) ([code](leetcode/python/300-longest-increasing-subsequence.py))
   - [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) ([DP/ O(nlogn) with Patience Sort](leetcode/python/354-russian-doll-envelopes.py))
