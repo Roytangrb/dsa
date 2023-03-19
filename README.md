@@ -291,6 +291,7 @@ Data Structure and Algorithm
   - [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) ([code](leetcode/python/820-short-encoding-of-words.py))
   - [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) ([code](leetcode/python/336-palindrome-pairs.py))
   - [Word Search II](https://leetcode.com/problems/word-search-ii/) ([code](leetcode/python/212-word-search-ii.py))
+  - [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) ([code](leetcode/python/211-design-add-and-search-words-data-structure.py))
 - Two/K Pointers
   - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) ([code](leetcode/python/792-number-of-matching-subsequences.py))
 - Z Algorithm
