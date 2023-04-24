@@ -14,5 +14,5 @@ class Solution:
                 k = r - l
                 ans += (k + 1) * k // 2
                 l = r + 1
-            
+
         return ans
