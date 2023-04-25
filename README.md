@@ -37,6 +37,7 @@ Data Structure and Algorithm
 - Self-balancing Trees
   - [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) ([code](leetcode/python/981-time-based-key-value-store.py))
   - [My Calendar III](https://leetcode.com/problems/my-calendar-iii/) ([code](leetcode/python/732-my-calendar-iii.py))
+  - [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) ([code](leetcode/python/2336-smallest-number-in-infinite-set.py))
 - Lowest Common Ancestor (LCA)
   - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) ([code](leetcode/python/236-lowest-common-ancestor-of-a-binary-tree.py))
   - [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) ([code](leetcode/python/235-lowest-common-ancestor-of-a-binary-search-tree.py))
