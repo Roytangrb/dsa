@@ -318,6 +318,7 @@ Data Structure and Algorithm
   - [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) ([code](leetcode/python/2244-minimum-rounds-to-complete-all-tasks.py))
   - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) ([code](leetcode/python//149-max-points-on-a-line.py))
   - [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) ([code](leetcode/python/1071-greatest-common-divisor-of-strings.py))
+  - [Add Digits](https://leetcode.com/problems/add-digits/) ([code](leetcode/python/258-add-digits.py))
 - Permutation
   - [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) ([code](leetcode/python/377-combination-sum-iv.py))
   - [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) ([code](leetcode/python/1220-count-vowels-permutation.py))
