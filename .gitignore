@@ -11,3 +11,6 @@ __pycache__/
 
 # python vitural env
 env/
+
+# c
+*.out

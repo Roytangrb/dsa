@@ -31,19 +31,23 @@ clean:
 
 # Move my leetcode solutions files downloaded
 # Tampermonkey script: https://gist.github.com/Roytangrb/7df5bd7c0321debb9df8e539662b08ea
-.PHONY: mv_code
-mv_code: mv_py mv_rs
-
+LANGUAGES := python.py rust.rs c.c
 
 # Posix BRE: https://en.wikibooks.org/wiki/Regular_Expressions/POSIX_Basic_Regular_Expressions
 LC_FILENAME_REGEX := .*\/[0-9]\{1,4\}[-[:alnum:]]\{1,\}
 
-
-.PHONY: mv_py
-mv_py:
-	@ find ~/Downloads -depth 1 -type f -regex "$(LC_FILENAME_REGEX)\.py" -exec mv -f -v {} ./leetcode/python ";"
+.PHONY: mv_code $(LANGUAGES)
+mv_code: $(LANGUAGES)
 
 
-.PHONY: mv_rs
-mv_rs:
-	@ find ~/Downloads -depth 1 -type f -regex "$(LC_FILENAME_REGEX)\.rs" -exec mv -f -v {} ./leetcode/rust ";"
+.PHONY: $(LANGUAGES)
+$(LANGUAGES):
+	@ $(MAKE) find_downloaded \
+	LANG_NAME=$(word 1,$(subst ., ,$@)) \
+	LANG_EXT=$(word 1,$(subst ., ,$@))
+
+
+.PHONY: find_downloaded
+find_downloaded:
+	@ echo "Moving $(LANG_NAME) code files ..."
+	@ find ~/Downloads -depth 1 -type f -regex "$(LC_FILENAME_REGEX)\.$(LANG_EXT)" -exec mv -f -v {} ./leetcode/$(LANG_NAME) ";"
