@@ -44,7 +44,7 @@ mv_code: $(LANGUAGES)
 $(LANGUAGES):
 	@ $(MAKE) find_downloaded \
 	LANG_NAME=$(word 1,$(subst ., ,$@)) \
-	LANG_EXT=$(word 1,$(subst ., ,$@))
+	LANG_EXT=$(word 2,$(subst ., ,$@))
 
 
 .PHONY: find_downloaded
