@@ -23,7 +23,7 @@ python -m venv env
 
 #### Config Vscode to auto activate venv
 
-* `Command-Shift-p` to select interpreter: `.env/bin/python`
+* `Command-Shift-p` to select interpreter: `./env/bin/python`
 * Add `"python.terminal.activateEnvironment": true` to `.vscode/settings.json`
 
 ### Install Dependencies
