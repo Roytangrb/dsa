@@ -3,24 +3,17 @@
 # URL: https://leetcode.com/problems/shortest-bridge/
 
 
-from collections import defaultdict
-
-
 class Solution:
-    group_counter: int = 1
-    external_cells: defaultdict[int, list]
+    external_cells: list[tuple[int, int]]
 
     def shortestBridge(self, grid: list[list[int]]) -> int:
         n = len(grid)
-        self.external_cells = defaultdict(list)
-        for r in range(n):
-            for c in range(n):
-                if grid[r][c] == 1:
-                    self.group_counter += 1
-                    self.dfs(grid, n, r, c, self.group_counter)
+        self.external_cells = []
+        ir, ic = next((r, c) for r in range(n) for c in range(n) if grid[r][c] == 1)
+        self.dfs(grid, n, ir, ic, 2)
 
-        # Use last found island as start, BFS found shortest path length to another island
-        q = self.external_cells[self.group_counter]
+        # Use first found island as start, BFS found shortest path length to another island
+        q = self.external_cells
         ans = 0  # Start cell not part of the bridge
         while q:
             frontier = []
@@ -29,9 +22,9 @@ class Solution:
                     nr, nc = r + dr, c + dc
                     if 0 <= nr < n and 0 <= nc < n:
                         if grid[nr][nc] == 0:
-                            grid[nr][nc] = self.group_counter
+                            grid[nr][nc] = 2
                             frontier.append((nr, nc))
-                        elif grid[nr][nc] != self.group_counter:
+                        elif grid[nr][nc] != 2:
                             return ans  # End cell not part of the bridge
 
             q = frontier
@@ -50,7 +43,7 @@ class Solution:
                     # dfs needs to be called, do not short circuit
                     is_internal = self.dfs(grid, n, r + dr, c + dc, v) and is_internal
                 if not is_internal:
-                    self.external_cells[v].append((r, c))
+                    self.external_cells.append((r, c))
 
                 return True
             else:
