@@ -322,6 +322,7 @@ Data Structure and Algorithm
   - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) ([code](leetcode/python//149-max-points-on-a-line.py))
   - [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) ([code](leetcode/python/1071-greatest-common-divisor-of-strings.py))
   - [Add Digits](https://leetcode.com/problems/add-digits/) ([code](leetcode/python/258-add-digits.py))
+  - [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) ([code](leetcode/python/319-bulb-switcher.py))
 - Permutation
   - [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) ([code](leetcode/python/377-combination-sum-iv.py))
   - [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) ([code](leetcode/python/1220-count-vowels-permutation.py))
