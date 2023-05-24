@@ -149,6 +149,7 @@ Data Structure and Algorithm
 - [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) ([code](leetcode/python/1834-single-threaded-cpu.py))
 - [IPO](https://leetcode.com/problems/ipo/) ([code](leetcode/python/502-ipo.py))
 - [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) ([code](leetcode/python/1675-minimize-deviation-in-array.py))
+- [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) ([code](leetcode/python/2542-maximum-subsequence-score.py))
 
 </details>
 
