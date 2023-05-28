@@ -350,6 +350,7 @@ Data Structure and Algorithm
   - [Arithmetic Slices II](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) ([code](leetcode))
   - [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) ([code](leetcode/python/931-minimum-falling-path-sum.py))
   - [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) ([code](leetcode/python/926-flip-string-to-monotone-increasing.py))
+  - [New 21 Game](https://leetcode.com/problems/new-21-game/) ([code](leetcode/python/837-new-21-game.py))
   - Kadane's Algorithm
     - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) ([code](leetcode/python/918-maximum-sum-circular-subarray.py))
 - Greedy
