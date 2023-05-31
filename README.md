@@ -351,6 +351,7 @@ Data Structure and Algorithm
   - [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) ([code](leetcode/python/931-minimum-falling-path-sum.py))
   - [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) ([code](leetcode/python/926-flip-string-to-monotone-increasing.py))
   - [New 21 Game](https://leetcode.com/problems/new-21-game/) ([code](leetcode/python/837-new-21-game.py))
+  - [Stone Game II](https://leetcode.com/problems/stone-game-ii/) ([code](leetcode/python/1140-stone-game-ii.py))
   - Kadane's Algorithm
     - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) ([code](leetcode/python/918-maximum-sum-circular-subarray.py))
 - Greedy
@@ -361,6 +362,5 @@ Data Structure and Algorithm
   - [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) ([code](leetcode/python/2389-longest-subsequence-with-limited-sum.py))
   - [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) ([code](leetcode/python/452-minimum-number-of-arrows-to-burst-balloons.py))
   - [Jump Game II](https://leetcode.com/problems/jump-game-ii/) ([code](leetcode/python/45-jump-game-ii.py))
-  - [Stone Game II](https://leetcode.com/problems/stone-game-ii/) ([code](leetcode/python/1140-stone-game-ii.py))
 
 </details>
