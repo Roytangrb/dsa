@@ -352,6 +352,7 @@ Data Structure and Algorithm
   - [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) ([code](leetcode/python/926-flip-string-to-monotone-increasing.py))
   - [New 21 Game](https://leetcode.com/problems/new-21-game/) ([code](leetcode/python/837-new-21-game.py))
   - [Stone Game II](https://leetcode.com/problems/stone-game-ii/) ([code](leetcode/python/1140-stone-game-ii.py))
+  - [Stone Game III](https://leetcode.com/problems/stone-game-iii/) ([code](leetcode/python/1406-stone-game-iii.py))
   - Kadane's Algorithm
     - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) ([code](leetcode/python/918-maximum-sum-circular-subarray.py))
 - Greedy
