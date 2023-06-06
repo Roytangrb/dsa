@@ -317,6 +317,7 @@ Data Structure and Algorithm
 - Information Theory
   - [Poor Pigs](https://leetcode.com/problems/poor-pigs/) ([code](leetcode/python/458-poor-pigs.py))
 - Math & Geometry
+  - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) ([code](leetcode/python/1502-can-make-arithmetic-progression-from-sequence.py))
   - [Ugly Number](https://leetcode.com/problems/ugly-number/) ([code](leetcode/python/263-ugly-number.py))
   - [Rectangle Area](https://leetcode.com/problems/rectangle-area/) ([code](leetcode/python/223-rectangle-area.py))
   - [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) ([code](leetcode/python/2244-minimum-rounds-to-complete-all-tasks.py))
