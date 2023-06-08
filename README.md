@@ -193,6 +193,7 @@ Data Structure and Algorithm
   - [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) ([code](leetcode/python/1074-number-of-submatrices-that-sum-to-target.py))
   - [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) ([code](leetcode/python/363-max-sum-of-rectangle-no-larger-than-k.py))
 - Search Space Reduction
+  - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) ([code](leetcode/python/1351-count-negative-numbers-in-a-sorted-matrix.py))
   - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) ([code](leetcode/python/240-search-a-2d-matrix-ii.py))
   - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) ([code](leetcode/python/378-kth-smallest-element-in-a-sorted-matrix.py))
 - Spiral Matrix
