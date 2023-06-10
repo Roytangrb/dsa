@@ -359,12 +359,13 @@ Data Structure and Algorithm
   - Kadane's Algorithm
     - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) ([code](leetcode/python/918-maximum-sum-circular-subarray.py))
 - Greedy
-  - [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) ([code](leetcode/python/1578-minimum-time-to-make-rope-colorful.py))
   - [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) ([code](leetcode/python/1328-break-a-palindrome.py))
   - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) ([code](leetcode/python/12-integer-to-roman.py))
+  - [Jump Game II](https://leetcode.com/problems/jump-game-ii/) ([code](leetcode/python/45-jump-game-ii.py))
   - [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) ([code](leetcode/python/2131-longest-palindrome-by-concatenating-two-letter-words.py))
   - [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) ([code](leetcode/python/2389-longest-subsequence-with-limited-sum.py))
+  - [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) ([code](leetcode/python/1802))
   - [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) ([code](leetcode/python/452-minimum-number-of-arrows-to-burst-balloons.py))
-  - [Jump Game II](https://leetcode.com/problems/jump-game-ii/) ([code](leetcode/python/45-jump-game-ii.py))
+  - [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) ([code](leetcode/python/1578-minimum-time-to-make-rope-colorful.py))
 
 </details>
