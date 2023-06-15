@@ -3,14 +3,11 @@
 # URL: https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 
 
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+from .types import TreeNode
+
+
 class Solution:
-    def maxLevelSum(self, root: Optional[TreeNode]) -> int:
+    def maxLevelSum(self, root: TreeNode | None) -> int:
         q = [root] if root else []
         level = 1
 
