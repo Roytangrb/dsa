@@ -317,6 +317,7 @@ Data Structure and Algorithm
   - [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) ([code](leetcode/python/473-matchsticks-to-square.py))
 - Combinatorics
   - [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) ([code](leetcode/python/2444-count-subarrays-with-fixed-bounds.py))
+  - [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) ([code](leetcode/python/1569-number-of-ways-to-reorder-array-to-get-same-bst.py))
 - Information Theory
   - [Poor Pigs](https://leetcode.com/problems/poor-pigs/) ([code](leetcode/python/458-poor-pigs.py))
 - Math & Geometry
