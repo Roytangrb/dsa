@@ -30,13 +30,13 @@ org: README.org
 	@ pandoc --from org --to html \
 	--standalone \
 	--toc --toc-depth 2 \
-	-o build/README.html \
+	-o build/index.html \
 	README.org
 
 
 # Build and view html doc
 doc: org
-	@ open build/README.html
+	@ open build/index.html
 
 
 # Clean temp or output files
