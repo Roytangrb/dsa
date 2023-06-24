@@ -1,0 +1,318 @@
+#+TITLE: Data Structure and Algorithm
+#+STATRUP: show2levels
+
+* Binary Search
+- [[https://leetcode.com/problems/count-complete-tree-nodes/][Count Complete Tree Nodes]] ([[file:leetcode/python/222-count-complete-tree-nodes.py][code]])
+- [[https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/][Capacity To Ship Packages Within D Days]] ([[file:leetcode/python/1011-capacity-to-ship-packages-within-d-days.py][code]])
+
+* Binary Tree
+- Traversal/Modification
+  - [[https://leetcode.com/problems/increasing-order-search-tree/][Relink BST to Sorted Linked List]] ([[file:src/bst_relink.py][code]])
+  - [[https://leetcode.com/problems/convert-bst-to-greater-tree/][Convert BST to Greater Tree]] (O(1) space with [[file:src/morris_traversal.py][Morris Traversal]])
+  - [[https://leetcode.com/problems/kth-smallest-element-in-a-bst/][Kth Smallest Element in a BST]]
+  - [[https://leetcode.com/problems/recover-binary-search-tree/][Recover Binary Search Tree]] ([[file:src/find_swapped.py][code]])
+  - [[https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/][Construct Binary Tree from Preorder and Inorder Traversal]] ([[file:leetcode/python/105-construct-binary-tree-from-preorder-and-inorder-traversal.py][code]])
+  - [[https://leetcode.com/problems/binary-search-tree-iterator-ii/][Binary Search Tree Iterator II]] ([[file:src/bst_iterator.py][code]])
+  - [[https://leetcode.com/problems/flatten-binary-tree-to-linked-list/][Flatten Binary Tree to Linked List]] ([[file:leetcode/python/114-flatten-binary-tree-to-linked-list.py][code]])
+  - [[https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/][Convert Sorted Array to Binary Search Tree]] ([[file:leetcode/python/108-convert-sorted-array-to-binary-search-tree.py][code]])
+  - [[https://leetcode.com/problems/validate-binary-search-tree/][Validate Binary Search Tree]] ([[file:leetcode/python/98-validate-binary-search-tree.py][code]])
+  - [[https://leetcode.com/problems/leaf-similar-trees/][Leaf-Similar Trees]] ([[file:leetcode/python/872-leaf-similar-trees.py][code]])
+  - [[https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/][Maximum Product of Splitted Binary Tree]] ([[file:leetcode/python/1339-maximum-product-of-splitted-binary-tree.py][code]])
+- BFS Traversal
+  - [[https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/][Populating Next Right Pointers in Each Node II]]
+  - [[https://leetcode.com/problems/deepest-leaves-sum/][Deepest Leaves Sum]]
+- Fenwick Tree/Segment Tree
+  - [[https://leetcode.com/problems/range-sum-query-mutable/][Range Sum Query - Mutable]] ([[file:leetcode/python/307-range-sum-query-mutable.py][code]])
+  - [[https://leetcode.com/problems/count-of-smaller-numbers-after-self/][Count of Smaller Numbers After Self]] ([[file:leetcode/python/315-count-of-smaller-numbers-after-self.py][code]])
+  - [[https://leetcode.com/problems/my-calendar-iii/][My Calendar III]] ([[file:leetcode/python/732-my-calendar-iii.py][code]])
+- Self-balancing Trees
+  - [[https://leetcode.com/problems/time-based-key-value-store/][Time Based Key-Value Store]] ([[file:leetcode/python/981-time-based-key-value-store.py][code]])
+  - [[https://leetcode.com/problems/my-calendar-iii/][My Calendar III]] ([[file:leetcode/python/732-my-calendar-iii.py][code]])
+  - [[https://leetcode.com/problems/smallest-number-in-infinite-set/][Smallest Number in Infinite Set]] ([[file:leetcode/python/2336-smallest-number-in-infinite-set.py][code]])
+- Lowest Common Ancestor (LCA)
+  - [[https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/][Lowest Common Ancestor of a Binary Tree]] ([[file:leetcode/python/236-lowest-common-ancestor-of-a-binary-tree.py][code]])
+  - [[https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/][Lowest Common Ancestor of a Binary Search Tree]] ([[file:leetcode/python/235-lowest-common-ancestor-of-a-binary-search-tree.py][code]])
+- [[https://leetcode.com/problems/find-duplicate-subtrees/][Find Duplicate Subtrees]] ([[file:leetcode/python/652-find-duplicate-subtrees.py][code]])
+
+* Bit Manipulation
+- Bitset
+  - [[https://leetcode.com/problems/maximum-product-of-word-lengths/][Maximum Product of Word Lengths]] ([[file:leetcode/python/318-maximum-product-of-word-lengths.py][code]])
+  - [[https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/][Maximum Length of a Concatenated String with Unique Characters]] ([[file:leetcode/python/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py][code]])
+  - [[https://leetcode.com/problems/image-overlap/][Image Overlap]] ([[file:leetcode/python/835-image-overlap.py][code]])
+- Unset Rightmost Bit
+  - [[https://leetcode.com/problems/number-of-1-bits/][Number of 1 Bits]] ([[file:leetcode/python/191-number-of-1-bits.py][code]])
+- Unset Leftmost Bit
+  - [[https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/][Check If a String Contains All Binary Codes of Size K]] ([[file:leetcode/python/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py][code]])
+- Get Leftmost Set Bit
+  - [[https://leetcode.com/problems/divide-two-integers/][Divide Two Integers]] ([[file:leetcode/python/29-divide-two-integers.py][Base 2 Long Division]])
+- Get Rightmost Set Bit
+  - [[https://leetcode.com/problems/power-of-four/][Power of Four]] ([[file:leetcode/python/342-power-of-four.py][code]])
+  - [[https://leetcode.com/problems/set-mismatch/][Set Mismatch]] ([[file:leetcode/python/645-set-mismatch.py][code]])
+- Is Power of 2 (popcount = 1)
+  - [[https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/][Concatenation of Consecutive Binary Numbers]] ([[file:leetcode/python/1680-concatenation-of-consecutive-binary-numbers.py][code]])
+- [[https://leetcode.com/problems/single-element-in-a-sorted-array/][Single Element in a Sorted Array]] ([[file:leetcode/python/540-single-element-in-a-sorted-array.py][code]])
+- [[https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/][Minimum Flips to Make a OR b Equal to c]] ([[file:leetcode/python/1318-minimum-flips-to-make-a-or-b-equal-to-c.py][py]]) ([[file:leetcode/c/1318-minimum-flips-to-make-a-or-b-equal-to-c.c][c]])
+
+* Graph
+- [[https://en.wikipedia.org/wiki/Bipartite_graph][Bipartite Graph]]
+  - [[https://leetcode.com/problems/is-graph-bipartite/][Is Graph Bipartite]] ([[file:src/bipartiteness.py][code]])
+  - [[https://leetcode.com/problems/possible-bipartition/][Possible Bipartition]] ([[file:leetcode/python/886-possible-bipartition.py][code]])
+- BFS Unweighted Shortest Path
+  - [[https://leetcode.com/problems/shortest-path-in-binary-matrix/][Shortest Path in Binary Matrix]]
+  - [[https://leetcode.com/problems/word-ladder-ii/][Word Ladder II]] ([[file:leetcode/python/126-word-ladder-ii.py][code]])
+  - [[https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/][Shortest Path in a Grid with Obstacles Elimination]] ([[file:leetcode/python/1293-shortest-path-in-a-grid-with-obstacles-elimination.py][code]])
+  - [[https://leetcode.com/problems/minimum-genetic-mutation/][Minimum Genetic Mutation]] ([[file:leetcode/python/433-minimum-genetic-mutation.py][code]])
+  - [[https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/][Nearest Exit from Entrance in Maze]] ([[file:leetcode/python/1926-nearest-exit-from-entrance-in-maze.py][code]])
+  - [[https://leetcode.com/problems/as-far-from-land-as-possible/][As Far from Land as Possible]] ([[file:leetcode/python/1162-as-far-from-land-as-possible.py][code]])
+  - [[https://leetcode.com/problems/shortest-path-with-alternating-colors/][Shortest Path with Alternating Colors]] ([[file:leetcode/python/1129-shortest-path-with-alternating-colors.py][code]])
+  - [[https://leetcode.com/problems/jump-game-iv/][Jump Game IV]] ([[file:leetcode/python/1345-jump-game-iv.py][code]])
+  - [[https://leetcode.com/problems/shortest-bridge/description/][Shortest Bridge]] ([[file:leetcode/python/934-shortest-bridge.py][code]])
+- Bridge of Graph
+  - [[https://leetcode.com/problems/critical-connections-in-a-network/][Critical Connections in a Network]] ([[file:src/tarjan_bridge_finding.py][Tarjan's bridge finding]])
+- Convex Hull
+  - [[https://leetcode.com/problems/erect-the-fence/][Erect the Fence]] ([[file:leetcode/python/587-erect-the-fence.py][code]])
+- Dijkstra Shortest Path
+  - [[https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/][Minimum Weighted Subgraph With the Required Paths]] ([[file:src/dijkstra.py][code]])
+  - [[https://leetcode.com/problems/path-with-minimum-effort/][Path With Minimum Effort]]
+  - [[https://leetcode.com/problems/network-delay-time/][Network Delay Time]]
+  - [[https://leetcode.com/problems/cheapest-flights-within-k-stops/][Cheapest Flights Within K Stops]] ([[file:leetcode/python/787-cheapest-flights-within-k-stops.py][code]])
+- Disjoint Set Union Find
+  - [[https://leetcode.com/problems/longest-consecutive-sequence/][Longest Consecutive Sequence]] ([[file:src/union_by_size.py][union by size]])
+  - [[https://leetcode.com/problems/graph-valid-tree/][Graph Valid Tree]] ([[file:src/union_by_rank.py][union by rank]])
+  - [[https://leetcode.com/problems/smallest-string-with-swaps/][Smallest String With Swaps]]
+  - [[https://leetcode.com/problems/path-with-minimum-effort/][Path With Minimum Effort]]
+  - [[https://leetcode.com/problems/satisfiability-of-equality-equations/][Satisfiability of Equality Equations]] ([[file:leetcode/python/990-satisfiability-of-equality-equations.py][code]])
+  - [[https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/][Most Stones Removed with Same Row or Column]] ([[file:leetcode/python/947-most-stones-removed-with-same-row-or-column.py][code]])
+  - [[https://leetcode.com/problems/lexicographically-smallest-equivalent-string/][Lexicographically Smallest Equivalent String]] ([[file:leetcode/python/1061-lexicographically-smallest-equivalent-string.py][code]])
+  - [[https://leetcode.com/problems/number-of-good-paths/][Number of Good Paths]] ([[file:leetcode/python/2421-number-of-good-paths.py][code]])
+- [[https://en.wikipedia.org/wiki/Hamiltonian_path][Hamiltonian Path]]
+  - [[https://leetcode.com/problems/unique-paths-iii/][Unique Paths III]] ([[file:leetcode/python/980-unique-paths-iii.py][code]])
+- Minimum Spanning Tree
+  - [[https://leetcode.com/problems/min-cost-to-connect-all-points/][Min Cost to Connect All Points]]
+    - [[file:src/kruskal_mst.py][Kruskal's Algorithm]] with union find
+    - [[file:src/prim_mst.py][Prim's Algorithm]] with priority queue
+- Topological Sort
+  - [[https://leetcode.com/problems/graph-valid-tree/][Graph Valid Tree]] ([[file:src/topological_sort.py][code]])
+  - [[https://leetcode.com/problems/longest-increasing-path-in-a-matrix/][Longest Increasing Path in a Matrix]] ([[file:leetcode/python/329-longest-increasing-path-in-a-matrix.py][code]])
+  - [[https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/][Minimum Number of Vertices to Reach All Nodes]] ([[file:leetcode/python/1557-minimum-number-of-vertices-to-reach-all-nodes.py][code]])
+- Modelling/Simulation
+  - [[https://leetcode.com/problems/escape-the-spreading-fire/][Escape the Spreading Fire]]
+  - [[https://leetcode.com/problems/out-of-boundary-paths/][Out of Boundary Paths]] ([[file:leetcode/python/576-out-of-boundary-paths.py][code]])
+- Traversal
+  - [[https://leetcode.com/problems/pacific-atlantic-water-flow/][Pacific Atlantic Water Flow]] ([[file:leetcode/python/417-pacific-atlantic-water-flow.py][code]])
+  - [[https://leetcode.com/problems/word-search/][Word Search]] ([[file:leetcode/python/79-word-search.py][code]])
+- Tree
+  - [[https://leetcode.com/problems/sum-of-distances-in-tree/][Sum of Distances in Tree]] ([[file:leetcode/python/834-sum-of-distances-in-tree.py][code]])
+  - [[https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/][Number of Nodes in the Sub-Tree With the Same Label]] ([[file:leetcode/python/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.py][code]])
+  - [[https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/][Minimum Fuel Cost to Report to the Capital]] ([[file:leetcode/python/2477-minimum-fuel-cost-to-report-to-the-capital.py][code]])
+
+* Hash Map
+- [[https://leetcode.com/problems/contains-duplicate-ii/][Contains Duplicate II]] ([[file:leetcode/python/219-contains-duplicate-ii.py][code]])
+- [[https://leetcode.com/problems/continuous-subarray-sum/][Continuous Subarray Sum]] ([[file:leetcode/python/523-continuous-subarray-sum.py][code]])
+- [[https://leetcode.com/problems/insert-delete-getrandom-o1/][Insert Delete GetRandom O(1)]] ([[file:leetcode/python/380-insert-delete-getrandom-o1.py][code]])
+- [[https://leetcode.com/problems/determine-if-two-strings-are-close/][Determine if Two Strings Are Close]] ([[file:leetcode/python/1657-determine-if-two-strings-are-close.py][code]])
+
+* Heap/Priority Queue
+- [[https://leetcode.com/problems/top-k-frequent-words/][Top K Frequent Words]] ([[file:leetcode/python/692-top-k-frequent-words.py][code]])
+- [[https://leetcode.com/problems/construct-target-array-with-multiple-sums/][Construct Target Array With Multiple Sums]] ([[file:leetcode/python/1354-construct-target-array-with-multiple-sums.py][code]])
+- [[https://leetcode.com/problems/course-schedule-iii/][Course Schedule III]] ([[file:leetcode/python/630-course-schedule-iii.py][code]])
+- [[https://leetcode.com/problems/reduce-array-size-to-the-half/][Reduce Array Size to The Half]] ([[file:leetcode/python/1338-reduce-array-size-to-the-half.py][code]])
+- [[https://leetcode.com/problems/split-array-into-consecutive-subsequences/][Split Array into Consecutive Subsequences]] ([[file:leetcode/python/659-split-array-into-consecutive-subsequences.py][code]])
+- [[https://leetcode.com/problems/minimum-number-of-refueling-stops/][Minimum Number of Refueling Stops]] ([[file:leetcode/python/871-minimum-number-of-refueling-stops.py][code]])
+- [[https://leetcode.com/problems/maximum-performance-of-a-team/][Maximum Performance of a Team]] ([[file:leetcode/python/1383-maximum-performance-of-a-team.py][code]])
+- [[https://leetcode.com/problems/earliest-possible-day-of-full-bloom/][Earliest Possible Day of Full Bloom]] ([[file:leetcode/python/2136-earliest-possible-day-of-full-bloom.py][code]])
+- [[https://leetcode.com/problems/find-median-from-data-stream/][Find Median from Data Stream]] ([[file:leetcode/python/295-find-median-from-data-stream.py][code]])
+- [[https://leetcode.com/problems/single-threaded-cpu/][Single-Threaded CPU]] ([[file:leetcode/python/1834-single-threaded-cpu.py][code]])
+- [[https://leetcode.com/problems/ipo/][IPO]] ([[file:leetcode/python/502-ipo.py][code]])
+- [[https://leetcode.com/problems/minimize-deviation-in-array/][Minimize Deviation in Array]] ([[file:leetcode/python/1675-minimize-deviation-in-array.py][code]])
+- [[https://leetcode.com/problems/maximum-subsequence-score/][Maximum Subsequence Score]] ([[file:leetcode/python/2542-maximum-subsequence-score.py][code]])
+
+* Iterator
+- Peeking Iterator
+  - [[https://leetcode.com/problems/flatten-nested-list-iterator/][Flatten Nested List Iterator]] ([[file:src/iter_nested_list.py][code]])
+- [[https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/][Check If Two String Arrays are Equivalent]] ([[file:leetcode/python/1662-check-if-two-string-arrays-are-equivalent.py][code]])
+
+* Linked List
+- Two Pointers
+  - [[https://leetcode.com/problems/intersection-of-two-linked-lists/][Intersection of Two Linked Lists]] ([[file:leetcode/python/160-intersection-of-two-linked-lists.py][code]])
+  - [[https://leetcode.com/problems/partition-list/][Partition List]] ([[file:leetcode/python/86-partition-list.py][code]])
+  - [[https://leetcode.com/problems/palindrome-linked-list/][Palindrome Linked List]] ([[file:leetcode/python/234-palindrome-linked-list.py][code]])
+  - [[https://leetcode.com/problems/remove-nth-node-from-end-of-list/][Remove Nth Node From End of List]] ([[file:leetcode/python/19-remove-nth-node-from-end-of-list.py][code]])
+  - [[https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/][Delete the Middle Node of a Linked List]] ([[file:leetcode/python/2095-delete-the-middle-node-of-a-linked-list.py][code]])
+  - [[https://leetcode.com/problems/odd-even-linked-list/][Odd Even Linked List]] ([[file:leetcode/python/328-odd-even-linked-list.py][code]])
+- Floyd's Tortoise and Hare
+  - [[https://leetcode.com/problems/linked-list-cycle/][Linked List Cycle]] ([[file:leetcode/python/141-linked-list-cycle.py][code]])
+  - [[https://leetcode.com/problems/linked-list-cycle-ii/][Linked List Cycle II]]
+  - [[https://leetcode.com/problems/find-the-duplicate-number/][Find the Duplicate Number]] ([[file:leetcode/python/287-find-the-duplicate-number.py][code]])
+- [[https://leetcode.com/problems/my-calendar-i/][My Calendar I]] ([[file:leetcode/python/729-my-calendar-i.py][code]])
+- [[https://leetcode.com/problems/delete-node-in-a-linked-list/][Delete Node in a Linked List]] ([[file:leetcode/python/237-delete-node-in-a-linked-list.py][code]])
+- [[https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/][Maximum Twin Sum of a Linked List]] ([[file:leetcode/python/2130][code]])
+
+* Matrix
+- Backtracking
+  - [[https://leetcode.com/problems/n-queens/][N-Queens]] ([[file:leetcode/python/51-n-queens.py][code]])
+- Pre-computation
+  - [[https://leetcode.com/problems/range-sum-query-2d-immutable/][Range Sum Query 2D]] ([[file:leetcode/python/304-range-sum-query-2d-immutable.py][code]])
+  - [[https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/][Number of Submatrices That Sum to Target]] ([[file:leetcode/python/1074-number-of-submatrices-that-sum-to-target.py][code]])
+  - [[https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/][Max Sum of Rectangle No Larger Than K]] ([[file:leetcode/python/363-max-sum-of-rectangle-no-larger-than-k.py][code]])
+- Search Space Reduction
+  - [[https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/][Count Negative Numbers in a Sorted Matrix]] ([[file:leetcode/python/1351-count-negative-numbers-in-a-sorted-matrix.py][code]])
+  - [[https://leetcode.com/problems/search-a-2d-matrix-ii/][Search a 2D Matrix II]] ([[file:leetcode/python/240-search-a-2d-matrix-ii.py][code]])
+  - [[https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/][Kth Smallest Element in a Sorted Matrix]] ([[file:leetcode/python/378-kth-smallest-element-in-a-sorted-matrix.py][code]])
+- Spiral Matrix
+  - [[https://leetcode.com/problems/zigzag-conversion/][Zigzag Conversion]] ([[file:leetcode/python/6-zigzag-conversion.py][code]])
+- Yale Format
+  - [[https://leetcode.com/problems/sparse-matrix-multiplication/][Sparse Matrix Multiplication]] ([[file:src/yale_format.py][code]])
+- [[https://leetcode.com/problems/rotate-image/][Rotate Image]] ([[file:leetcode/python/48-rotate-image.py][code]])
+- [[https://leetcode.com/problems/image-overlap/][Image Overlap]] ([[file:leetcode/python/835-image-overlap.py][code]])
+- [[https://leetcode.com/problems/toeplitz-matrix/][Toeplitz Matrix]] ([[file:leetcode/python/766-toeplitz-matrix.py][code]])
+- [[https://leetcode.com/problems/construct-quad-tree/][Construct Quad Tree]] ([[file:leetcode/python/427-construct-quad-tree.py][code]])
+
+* Queue
+- [[https://leetcode.com/problems/design-circular-queue/][Design Circular Queue]] ([[file:leetcode/python/622-design-circular-queue.py][code]])
+
+* Sorting
+- Binary Search
+  - [[https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/][Find First and Last Position of Element in Sorted Array]] ([[file:leetcode/python/34-find-first-and-last-position-of-element-in-sorted-array.py][code]])
+  - [[https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/][Kth Smallest Element in a Sorted Matrix]] ([[file:leetcode/python/378-kth-smallest-element-in-a-sorted-matrix.py][code]])
+  - [[https://leetcode.com/problems/find-k-closest-elements/][Find K Closest Elements]] ([[file:leetcode/python/658-find-k-closest-elements.py][code]])
+  - [[https://leetcode.com/problems/insert-interval/][Insert Interval]] ([[file:leetcode/python/57-insert-interval.py][code]])
+  - [[https://leetcode.com/problems/data-stream-as-disjoint-intervals/][Data Stream as Disjoint Intervals]] ([[file:leetcode/python/352-data-stream-as-disjoint-intervals.py][code]])
+  - [[https://leetcode.com/problems/minimum-time-to-complete-trips/][Minimum Time to Complete Trips]] ([[file:leetcode/python/2187-minimum-time-to-complete-trips.py][code]])
+  - [[https://leetcode.com/problems/koko-eating-bananas/][Koko Eating Bananas]] ([[file:leetcode/python/875-koko-eating-bananas.py][code]])
+- Longest Increasing Subsequence (LIS)
+  - [[https://leetcode.com/problems/longest-increasing-subsequence/][Longest Increasing Subsequence]] ([[file:leetcode/python/300-longest-increasing-subsequence.py][code]])
+  - [[https://leetcode.com/problems/russian-doll-envelopes/][Russian Doll Envelopes]] ([[file:leetcode/python/354-russian-doll-envelopes.py][DP/ O(nlogn) with Patience Sort]])
+- Quickselect
+  - [[https://leetcode.com/problems/kth-largest-element-in-an-array/][Kth Largest Element in an Array]] ([[file:leetcode/python/215-kth-largest-element-in-an-array.py][code]])
+  - [[https://leetcode.com/problems/top-k-frequent-elements/][Top K Frequent Elements]] ([[file:src/quickselect.py][code]])
+  - [[https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/][Minimum Moves to Equal Array Elements II]] ([[file:leetcode/python/462-minimum-moves-to-equal-array-elements-ii.py][code]])
+  - [[https://leetcode.com/problems/kth-missing-positive-number/][Kth Missing Positive Number]] ([[file:leetcode/python/1539-kth-missing-positive-number.py][code]])
+- Quicksort
+  - [[https://leetcode.com/problems/sort-array-by-parity/][Sort Array By Parity]] ([[file:src/quicksort.py][code]])
+  - [[https://leetcode.com/problems/sort-an-array/][Sort an Array]] ([[file:leetcode/python/912-sort-an-array.py][code]])
+- Two Pointers
+  - [[https://www.geeksforgeeks.org/sort-an-almost-sorted-array-where-only-two-elements-are-swapped/][Find Two Swapped in Sorted Array]] ([[file:src/find_swapped.py][code]])
+  - [[https://leetcode.com/problems/merge-sorted-array/][Merge Sorted Array]] ([[file:leetcode/python/88-merge-sorted-array.py][code]])
+  - [[https://leetcode.com/problems/3sum-closest/][3Sum Closest]] ([[file:leetcode/python/16-3sum-closest.py][code]])
+  - [[https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/][Remove Duplicates from Sorted Array]] ([[file:leetcode/python/26-remove-duplicates-from-sorted-array.py][code]])
+- Greedy Using Sort
+  - [[https://leetcode.com/problems/bag-of-tokens/][Bag of Tokens]] ([[file:leetcode/python/948-bag-of-tokens.py][code]])
+  - [[https://leetcode.com/problems/find-original-array-from-doubled-array/][Find Original Array From Doubled Array]] ([[file:leetcode/python/2007-find-original-array-from-doubled-array.py][code]])
+  - [[https://leetcode.com/problems/largest-perimeter-triangle/][Largest Perimeter Triangle]] ([[file:leetcode/python/976-largest-perimeter-triangle.py][code]])
+  - [[https://leetcode.com/problems/last-stone-weight/][Last Stone Weight]] ([[file:leetcode/python/1046-last-stone-weight.py][code]])
+
+* Stack
+- Monotonic Stack
+  - [[https://leetcode.com/problems/132-pattern/][132 Pattern]] ([[file:src/find_132_pattern.py][code]])
+  - [[https://leetcode.com/problems/jump-game-vi/][Jump Game VI]] ([[file:leetcode/python/1696-jump-game-vi.py][code]])
+  - [[https://leetcode.com/problems/trapping-rain-water/][Trapping Rain Water]] ([[file:leetcode/python/42-trapping-rain-water.py][code]])
+  - [[https://leetcode.com/problems/online-stock-span/][Online Stock Span]] ([[file:leetcode/python/901-online-stock-span.py][code]])
+  - [[https://leetcode.com/problems/largest-rectangle-in-histogram/][Largest Rectangle in Histogram]] ([[file:leetcode/python/84-largest-rectangle-in-histogram.py][code]])
+  - [[https://leetcode.com/problems/sum-of-subarray-minimums/][Sum of Subarray Minimums]] ([[file:leetcode/python/907-sum-of-subarray-minimums.py][code]])
+  - [[https://leetcode.com/problems/daily-temperatures/][Daily Temperatures]] ([[file:leetcode/python/739-daily-temperatures.py][code]])
+- [[https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/][Remove All Adjacent Duplicates in String II]]
+- [[https://leetcode.com/problems/longest-valid-parentheses/][Longest Valid Parentheses]] ([[file:leetcode/python/32-longest-valid-parentheses.py][code]])
+- [[https://leetcode.com/problems/implement-queue-using-stacks/][Implement Queue using Stacks]] ([[file:leetcode/python/232-implement-queue-using-stacks.py][code]])
+
+* String Search & Pattern Matching
+- DP
+  - [[https://leetcode.com/problems/concatenated-words/][Concatenated Words]] ([[file:leetcode/python/472-concatenated-words.py][code]])
+  - [[https://leetcode.com/problems/edit-distance/][Edit (Levenshtein) distance]] ([[file:leetcode/python/72-edit-distance.py][code]])
+  - [[https://leetcode.com/problems/word-break/][Word Break]] ([[file:leetcode/python/139-word-break.py][code]])
+- Longest Common Subsequence (LCS)
+  - [[https://leetcode.com/problems/delete-operation-for-two-strings/][Delete Operation for Two Strings]] ([[file:leetcode/python/583-delete-operation-for-two-strings.py][code]])
+  - [[https://leetcode.com/problems/longest-common-subsequence/][Longest Common Subsequence]] ([[file:leetcode/python/1143-longest-common-subsequence.py][code]])
+- Hashmap
+  - [[https://leetcode.com/problems/find-and-replace-pattern/][Find and Replace Pattern]] ([[file:leetcode/python/890-find-and-replace-pattern.py][code]], same as [[https://leetcode.com/problems/isomorphic-strings/][Isomorphic Strings]])
+  - [[https://leetcode.com/problems/find-all-anagrams-in-a-string/][Find All Anagrams in a String]] ([[file:leetcode/python/438-find-all-anagrams-in-a-string.py][code]])
+  - [[https://leetcode.com/problems/naming-a-company/][Naming a Company]] ([[file:leetcode/python/2306-naming-a-company.py][code]])
+  - [[https://leetcode.com/problems/subarray-sums-divisible-by-k/description/][Subarray Sums Divisible by K]] ([[file:leetcode/python/974-subarray-sums-divisible-by-k.py][code]])
+  - [[https://leetcode.com/problems/word-subsets/][Word Subsets]] ([[file:leetcode/python/916-word-subsets.py][code]])
+- Rolling Hash
+  - [[https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/][Check If a String Contains All Binary Codes of Size K]] ([[file:leetcode/python/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py][code]])
+  - [[https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/][Find the Index of the First Occurrence in a String]] ([[file:leetcode/python/28-find-the-index-of-the-first-occurrence-in-a-string.py][code]])
+  - [[https://leetcode.com/problems/k-radius-subarray-averages/description/][K Radius Subarray Averages]] ([[file:leetcode/python/2090-k-radius-subarray-averages.py][code]])
+- Sliding Window
+  - [[https://leetcode.com/problems/fruit-into-baskets/][Fruit Into Baskets]] ([[file:leetcode/python/904-fruit-into-baskets.py][code]])
+  - [[https://leetcode.com/problems/longest-substring-without-repeating-characters/][Longest Substring Without Repeating Characters]] ([[file:leetcode/python/3-longest-substring-without-repeating-characters.py][code]])
+  - [[https://leetcode.com/problems/maximum-length-of-repeated-subarray/][Maximum Length of Repeated Subarray]] ([[file:leetcode/python/718-maximum-length-of-repeated-subarray.py][code]])
+  - [[https://leetcode.com/problems/minimum-window-substring/][Minimum Window Substring]] ([[file:leetcode/python/76-minimum-window-substring.py][code]])
+  - [[https://leetcode.com/problems/permutation-in-string/][Permutation in String]] ([[file:leetcode/python/567-permutation-in-string.py][code]])
+  - [[https://leetcode.com/problems/substring-with-concatenation-of-all-words/][Substring with Concatenation of All Words]] ([[file:leetcode/python/30-substring-with-concatenation-of-all-words.py][code]])
+- Trie
+  - [[https://leetcode.com/problems/design-file-system/][Design File System]] ([[file:src/file_system.py][code]])
+  - [[https://leetcode.com/problems/prefix-and-suffix-search/][Prefix and Suffix Search]] ([[file:leetcode/python/745-prefix-and-suffix-search.py][code]])
+  - [[https://leetcode.com/problems/search-suggestions-system/][Search Suggestions System]] ([[file:leetcode/python/1268-search-suggestions-system.py][code]])
+  - [[https://leetcode.com/problems/short-encoding-of-words/][Short Encoding of Words]] ([[file:leetcode/python/820-short-encoding-of-words.py][code]])
+  - [[https://leetcode.com/problems/palindrome-pairs/][Palindrome Pairs]] ([[file:leetcode/python/336-palindrome-pairs.py][code]])
+  - [[https://leetcode.com/problems/word-search-ii/][Word Search II]] ([[file:leetcode/python/212-word-search-ii.py][code]])
+  - [[https://leetcode.com/problems/design-add-and-search-words-data-structure/][Design Add and Search Words Data Structure]] ([[file:leetcode/python/211-design-add-and-search-words-data-structure.py][code]])
+  - [[https://leetcode.com/problems/equal-row-and-column-pairs/][Equal Row and Column Pairs]] ([[file:leetcode/python/2352-equal-row-and-column-pairs.py][code]])
+- Two/K Pointers
+  - [[https://leetcode.com/problems/number-of-matching-subsequences/][Number of Matching Subsequences]] ([[file:leetcode/python/792-number-of-matching-subsequences.py][code]])
+- Z Algorithm
+  - [[https://leetcode.com/problems/sum-of-scores-of-built-strings/][Sum of Scores of Built Strings]] ([[file:src/z_algorithm.py][code]])
+
+* Others
+- [[https://en.wikipedia.org/wiki/Bin_packing_problem][Bin Packing]]
+  - [[https://en.wikipedia.org/wiki/Knapsack_problem#0-1_knapsack_problem][0-1 Knapsack Problem]]
+    - [[https://leetcode.com/problems/maximum-profit-in-job-scheduling/][Maximum Profit in Job Scheduling]] ([[file:leetcode/python/1235-maximum-profit-in-job-scheduling.py][code]])
+  - [[https://leetcode.com/problems/matchsticks-to-square/][Matchsticks to Square]] ([[file:leetcode/python/473-matchsticks-to-square.py][code]])
+- Combinatorics
+  - [[https://leetcode.com/problems/count-subarrays-with-fixed-bounds/][Count Subarrays With Fixed Bounds]] ([[file:leetcode/python/2444-count-subarrays-with-fixed-bounds.py][code]])
+  - [[https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/][Number of Ways to Reorder Array to Get Same BST]] ([[file:leetcode/python/1569-number-of-ways-to-reorder-array-to-get-same-bst.py][code]])
+- Information Theory
+  - [[https://leetcode.com/problems/poor-pigs/][Poor Pigs]] ([[file:leetcode/python/458-poor-pigs.py][code]])
+- Math & Geometry
+  - [[https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/][Can Make Arithmetic Progression From Sequence]] ([[file:leetcode/python/1502-can-make-arithmetic-progression-from-sequence.py][code]])
+  - [[https://leetcode.com/problems/ugly-number/][Ugly Number]] ([[file:leetcode/python/263-ugly-number.py][code]])
+  - [[https://leetcode.com/problems/rectangle-area/][Rectangle Area]] ([[file:leetcode/python/223-rectangle-area.py][code]])
+  - [[https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/][Minimum Rounds to Complete All Tasks]] ([[file:leetcode/python/2244-minimum-rounds-to-complete-all-tasks.py][code]])
+  - [[https://leetcode.com/problems/max-points-on-a-line/][Max Points on a Line]] ([[file:leetcode/python//149-max-points-on-a-line.py][code]])
+  - [[https://leetcode.com/problems/greatest-common-divisor-of-strings/][Greatest Common Divisor of Strings]] ([[file:leetcode/python/1071-greatest-common-divisor-of-strings.py][code]])
+  - [[https://leetcode.com/problems/add-digits/][Add Digits]] ([[file:leetcode/python/258-add-digits.py][code]])
+  - [[https://leetcode.com/problems/bulb-switcher/][Bulb Switcher]] ([[file:leetcode/python/319-bulb-switcher.py][code]])
+- Permutation
+  - [[https://leetcode.com/problems/combination-sum-iv/][Combination Sum IV]] ([[file:leetcode/python/377-combination-sum-iv.py][code]])
+  - [[https://leetcode.com/problems/count-vowels-permutation/][Count Vowels Permutation]] ([[file:leetcode/python/1220-count-vowels-permutation.py][code]])
+  - [[https://leetcode.com/problems/letter-case-permutation/][Letter Case Permutation]] ([[file:leetcode/python/784-letter-case-permutation.py][code]])
+  - [[https://leetcode.com/problems/orderly-queue/][Orderly Queue]] ([[file:leetcode/python/899-orderly-queue.py][code]])
+- Parsing
+  - [[https://leetcode.com/problems/utf-8-validation/][UTF-8 Validation]] ([[file:leetcode/python/393-utf-8-validation.py][code]])
+  - [[https://leetcode.com/problems/basic-calculator/][Basic Calculator]] ([[file:leetcode/python/224-basic-calculator.py][code]])
+  - [[https://leetcode.com/problems/evaluate-reverse-polish-notation/][Evaluate Reverse Polish Notation]] ([[file:leetcode/python/150-evaluate-reverse-polish-notation.py][code]])
+- DP
+  - [[https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/][Best Time to Buy and Sell Stock IV]] ([[file:leetcode/python/188-best-time-to-buy-and-sell-stock-iv.py][code]])
+  - [[https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/][Best Time to Buy and Sell Stock with Cooldown]] ([[file:leetcode/python/309-best-time-to-buy-and-sell-stock-with-cooldown.py][code]])
+  - [[https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/][Best Time to Buy and Sell Stock with Transaction Fee]] ([[file:leetcode/python/714-best-time-to-buy-and-sell-stock-with-transaction-fee.py][code]])
+  - [[https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/][Maximum Score from Performing Multiplication Operations]] ([[file:leetcode/python/1770-maximum-score-from-performing-multiplication-operations.py][code]])
+  - [[https://leetcode.com/problems/minimum-number-of-refueling-stops/][Minimum Number of Refueling Stops]]
+  - [[https://leetcode.com/problems/maximum-length-of-repeated-subarray/][Maximum Length of Repeated Subarray]] ([[file:leetcode/python/718-maximum-length-of-repeated-subarray.py][code]])
+  - [[https://leetcode.com/problems/push-dominoes/][Push Dominoes]] ([[file:leetcode/python/838-push-dominoes.py][code]])
+  - [[https://leetcode.com/problems/domino-and-tromino-tiling/][Domino and Tromino Tiling]] ([[file:leetcode/python/790-domino-and-tromino-tiling.py][code]])
+  - [[https://leetcode.com/problems/decode-ways/][Decode Ways]] ([[file:leetcode/python/91-decode-ways.py][code]])
+  - [[https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/][Number of Dice Rolls With Target Sum]] ([[file:leetcode/python/1155-number-of-dice-rolls-with-target-sum.py][code]])
+  - [[https://leetcode.com/problems/increasing-triplet-subsequence/][Increasing Triplet Subsequence]] ([[file:leetcode/python/334-increasing-triplet-subsequence.py][code]])
+  - [[https://leetcode.com/problems/string-compression-ii/][String Compression II]] ([[file:leetcode/python/1531-string-compression-ii.py][code]])
+  - [[https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/][Minimum Difficulty of a Job Schedule]] ([[file:leetcode/python/1335-minimum-difficulty-of-a-job-schedule.py][code]])
+  - [[https://leetcode.com/problems/perfect-squares/][Perfect Squares]]
+  - [[https://leetcode.com/problems/arithmetic-slices-ii-subsequence/][Arithmetic Slices II]] ([[file:leetcode/python/446-arithmetic-slices-ii-subsequence.py][code]])
+  - [[https://leetcode.com/problems/longest-arithmetic-subsequence/][Longest Arithmetic Subsequence]] ([[file:leetcode/python/1027-longest-arithmetic-subsequence.py][code]])
+  - [[https://leetcode.com/problems/minimum-falling-path-sum/][Minimum Falling Path Sum]] ([[file:leetcode/python/931-minimum-falling-path-sum.py][code]])
+  - [[https://leetcode.com/problems/flip-string-to-monotone-increasing/][Flip String to Monotone Increasing]] ([[file:leetcode/python/926-flip-string-to-monotone-increasing.py][code]])
+  - [[https://leetcode.com/problems/new-21-game/][New 21 Game]] ([[file:leetcode/python/837-new-21-game.py][code]])
+  - [[https://leetcode.com/problems/stone-game-ii/][Stone Game II]] ([[file:leetcode/python/1140-stone-game-ii.py][code]])
+  - [[https://leetcode.com/problems/stone-game-iii/][Stone Game III]] ([[file:leetcode/python/1406-stone-game-iii.py][code]])
+  - Kadane's Algorithm
+    - [[https://leetcode.com/problems/maximum-sum-circular-subarray/][Maximum Sum Circular Subarray]] ([[file:leetcode/python/918-maximum-sum-circular-subarray.py][code]])
+- Greedy
+  - [[https://leetcode.com/problems/break-a-palindrome/][Break a Palindrome]] ([[file:leetcode/python/1328-break-a-palindrome.py][code]])
+  - [[https://leetcode.com/problems/integer-to-roman/][Integer to Roman]] ([[file:leetcode/python/12-integer-to-roman.py][code]])
+  - [[https://leetcode.com/problems/jump-game-ii/][Jump Game II]] ([[file:leetcode/python/45-jump-game-ii.py][code]])
+  - [[https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/][Longest Palindrome by Concatenating Two Letter Words]] ([[file:leetcode/python/2131-longest-palindrome-by-concatenating-two-letter-words.py][code]])
+  - [[https://leetcode.com/problems/longest-subsequence-with-limited-sum/][Longest Subsequence With Limited Sum]] ([[file:leetcode/python/2389-longest-subsequence-with-limited-sum.py][code]])
+  - [[https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/][Maximum Value at a Given Index in a Bounded Array]] ([[file:leetcode/python/1802-maximum-value-at-a-given-index-in-a-bounded-array.py][code]])
+  - [[https://leetcode.com/problems/minimum-cost-to-make-array-equal/][Minimum Cost to Make Array Equal]] ([[file:leetcode/python/2448-minimum-cost-to-make-array-equal.py][code]])
+  - [[https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/][Minimum Number of Arrows to Burst Balloons]] ([[file:leetcode/python/452-minimum-number-of-arrows-to-burst-balloons.py][code]])
+  - [[https://leetcode.com/problems/minimum-time-to-make-rope-colorful/][Minimum Time to Make Rope Colorful]] ([[file:leetcode/python/1578-minimum-time-to-make-rope-colorful.py][code]])
