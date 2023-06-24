@@ -7,11 +7,12 @@ all:
 # Install dependencies
 .PHONY: deps
 deps:
-	# Python source code dependencies
-	PIP_EXTRA_INDEX_URL= pip install -r requirements.txt
-	# Install or upgrade code formatting dependencies
-	PIP_EXTRA_INDEX_URL= pip install --upgrade black isort
-
+	@ echo "Installing python source code dependencies"
+	@ PIP_EXTRA_INDEX_URL= pip install -r requirements.txt
+	@ echo "Install or upgrade code formatting dependencies"
+	@ PIP_EXTRA_INDEX_URL= pip install --upgrade black isort
+	@ echo "Installing Pandoc"
+	@ HOMEBREW_NO_AUTO_UPDATE=1 brew install pandoc
 
 # Format codes
 .PHONY: fmt
@@ -23,10 +24,26 @@ fmt:
 	@ find ./leetcode/rust -type f -name "*.rs" -exec rustfmt {} +
 
 
+# Convert org to html
+org: README.org
+	@ mkdir -p build
+	@ pandoc --from org --to html \
+	--standalone \
+	--toc --toc-depth 2 \
+	-o build/README.html \
+	README.org
+
+
+# Build and view html doc
+doc: org
+	@ open build/README.html
+
+
 # Clean temp or output files
 .PHONY: clean
 clean:
 	@ find . -type d -name  "__pycache__" -exec rm -r {} +
+	@ rm -r ./build
 
 
 # Move my leetcode solutions files downloaded
