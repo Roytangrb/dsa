@@ -25,11 +25,12 @@ jobs:
             README.org
 
       - name: Upload github-pages artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-pages-artifact@v1
         with:
           name: github-pages
           path: build
 
+  # Deploy Pages via Github action instead of classic branch deployment
   deploy:
     # Add a dependency to the build job
     needs: build
