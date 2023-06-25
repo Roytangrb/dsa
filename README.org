@@ -204,17 +204,18 @@
   - [[https://leetcode.com/problems/last-stone-weight/][Last Stone Weight]] ([[file:leetcode/python/1046-last-stone-weight.py][code]])
 
 * Stack
+- [[https://leetcode.com/problems/implement-queue-using-stacks/][Implement Queue using Stacks]] ([[file:leetcode/python/232-implement-queue-using-stacks.py][code]])
+- [[https://leetcode.com/problems/longest-valid-parentheses/][Longest Valid Parentheses]] ([[file:leetcode/python/32-longest-valid-parentheses.py][code]])
 - Monotonic Stack
   - [[https://leetcode.com/problems/132-pattern/][132 Pattern]] ([[file:src/find_132_pattern.py][code]])
-  - [[https://leetcode.com/problems/jump-game-vi/][Jump Game VI]] ([[file:leetcode/python/1696-jump-game-vi.py][code]])
-  - [[https://leetcode.com/problems/trapping-rain-water/][Trapping Rain Water]] ([[file:leetcode/python/42-trapping-rain-water.py][code]])
-  - [[https://leetcode.com/problems/online-stock-span/][Online Stock Span]] ([[file:leetcode/python/901-online-stock-span.py][code]])
-  - [[https://leetcode.com/problems/largest-rectangle-in-histogram/][Largest Rectangle in Histogram]] ([[file:leetcode/python/84-largest-rectangle-in-histogram.py][code]])
-  - [[https://leetcode.com/problems/sum-of-subarray-minimums/][Sum of Subarray Minimums]] ([[file:leetcode/python/907-sum-of-subarray-minimums.py][code]])
   - [[https://leetcode.com/problems/daily-temperatures/][Daily Temperatures]] ([[file:leetcode/python/739-daily-temperatures.py][code]])
+  - [[https://leetcode.com/problems/jump-game-vi/][Jump Game VI]] ([[file:leetcode/python/1696-jump-game-vi.py][code]])
+  - [[https://leetcode.com/problems/largest-rectangle-in-histogram/][Largest Rectangle in Histogram]] ([[file:leetcode/python/84-largest-rectangle-in-histogram.py][code]])
+  - [[https://leetcode.com/problems/online-stock-span/][Online Stock Span]] ([[file:leetcode/python/901-online-stock-span.py][code]])
+  - [[https://leetcode.com/problems/sum-of-subarray-minimums/][Sum of Subarray Minimums]] ([[file:leetcode/python/907-sum-of-subarray-minimums.py][code]])
+  - [[https://leetcode.com/problems/trapping-rain-water/][Trapping Rain Water]] ([[file:leetcode/python/42-trapping-rain-water.py][code]])
 - [[https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/][Remove All Adjacent Duplicates in String II]]
-- [[https://leetcode.com/problems/longest-valid-parentheses/][Longest Valid Parentheses]] ([[file:leetcode/python/32-longest-valid-parentheses.py][code]])
-- [[https://leetcode.com/problems/implement-queue-using-stacks/][Implement Queue using Stacks]] ([[file:leetcode/python/232-implement-queue-using-stacks.py][code]])
+- [[https://leetcode.com/problems/robot-collisions/][Robot Collisions]] ([[file:leetcode/python/2751-robot-collisions.py][code]])
 
 * String Search & Pattern Matching
 - DP
