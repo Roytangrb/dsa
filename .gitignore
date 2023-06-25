@@ -29,8 +29,5 @@ tramp
 .org-id-locations
 *_archive
 
-# Emacs org-mode convert default outputs
+# Pandoc and Emacs README.org converted html default output
 README.html
-
-# Build output
-build/

@@ -26,24 +26,26 @@ fmt:
 
 # Convert org to html
 org: README.org
-	@ mkdir -p build
-	@ pandoc --from org --to html \
+	@ pandoc \
+	--from org --to html \
 	--standalone \
 	--toc --toc-depth 2 \
-	-o build/index.html \
+	-o README.html \
 	README.org
 
 
-# Build and view html doc
+# Build and view html doc locally
 doc: org
-	@ open build/index.html
+	@ open README.html
 
 
 # Clean temp or output files
 .PHONY: clean
 clean:
+	@ echo "Removing python caches..."
 	@ find . -type d -name  "__pycache__" -exec rm -r {} +
-	@ rm -r ./build
+	@ echo "Removing locally built doc output"
+	@ rm README.html*
 
 
 # Move my leetcode solutions files downloaded
