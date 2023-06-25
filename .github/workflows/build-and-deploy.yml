@@ -1,0 +1,19 @@
+name: Build and deploy
+
+on:
+  push:
+    branches: [ "master" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: docker://pandoc/core:3-ubuntu
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build html
+        run: make org
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: build
+          path: build
