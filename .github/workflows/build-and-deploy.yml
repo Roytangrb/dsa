@@ -11,8 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Create output directory
-        run: mkdir build
+      - name: Create output directory and copy static files
+        run: |
+          mkdir build
+          cp -r src build/src
+          cp -r leetcode build/leetcode
 
       - name: Build html
         uses: docker://pandoc/core:3-ubuntu

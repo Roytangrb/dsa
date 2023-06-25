@@ -3,6 +3,8 @@
 -- built html by pandoc, the hyperlinks to code files are of `file:` scheme. 
 -- While building the html to be deployed to Github Pages, use this Pandoc Lua 
 -- filter to replace file linlks to absolute URLs.
+-- TODO: elem.target does not include the url scheme. Include the source files
+-- in github-pages artifact for now.
 return {{
     Link = function(elem)
         if elem.target:match("^file:") then
