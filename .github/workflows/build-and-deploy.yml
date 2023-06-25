@@ -7,11 +7,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: docker://pandoc/core:3-ubuntu
+
     steps:
       - uses: actions/checkout@v3
+
+      - name: Create output directory
+        run: mkdir build
+      
       - name: Build html
-        run: make org
+        uses: docker://pandoc/core:3-ubuntu
+        with:
+          args: >-
+            --from org --to html
+            --standalone
+            --toc --toc-depth 2
+            -o build/index.html
+            README.org
+      
       - name: Upload artifacts
         uses: actions/upload-artifact@v3
         with:
