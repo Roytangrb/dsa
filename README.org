@@ -73,10 +73,11 @@
 - Convex Hull
   - [[https://leetcode.com/problems/erect-the-fence/][Erect the Fence]] ([[file:leetcode/python/587-erect-the-fence.py][code]])
 - Dijkstra Shortest Path
-  - [[https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/][Minimum Weighted Subgraph With the Required Paths]] ([[file:src/dijkstra.py][code]])
-  - [[https://leetcode.com/problems/path-with-minimum-effort/][Path With Minimum Effort]]
-  - [[https://leetcode.com/problems/network-delay-time/][Network Delay Time]]
   - [[https://leetcode.com/problems/cheapest-flights-within-k-stops/][Cheapest Flights Within K Stops]] ([[file:leetcode/python/787-cheapest-flights-within-k-stops.py][code]])
+  - [[https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/][Minimum Weighted Subgraph With the Required Paths]] ([[file:src/dijkstra.py][code]])
+  - [[https://leetcode.com/problems/network-delay-time/][Network Delay Time]]
+  - [[https://leetcode.com/problems/path-with-maximum-probability/][Path with Maximum Probability]] ([[file:leetcode/python/1514-path-with-maximum-probability.py][code]])
+  - [[https://leetcode.com/problems/path-with-minimum-effort/][Path With Minimum Effort]]
 - Disjoint Set Union Find
   - [[https://leetcode.com/problems/longest-consecutive-sequence/][Longest Consecutive Sequence]] ([[file:src/union_by_size.py][union by size]])
   - [[https://leetcode.com/problems/graph-valid-tree/][Graph Valid Tree]] ([[file:src/union_by_rank.py][union by rank]])
