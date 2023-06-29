@@ -59,15 +59,16 @@
   - [[https://leetcode.com/problems/is-graph-bipartite/][Is Graph Bipartite]] ([[file:src/bipartiteness.py][code]])
   - [[https://leetcode.com/problems/possible-bipartition/][Possible Bipartition]] ([[file:leetcode/python/886-possible-bipartition.py][code]])
 - BFS Unweighted Shortest Path
-  - [[https://leetcode.com/problems/shortest-path-in-binary-matrix/][Shortest Path in Binary Matrix]]
-  - [[https://leetcode.com/problems/word-ladder-ii/][Word Ladder II]] ([[file:leetcode/python/126-word-ladder-ii.py][code]])
-  - [[https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/][Shortest Path in a Grid with Obstacles Elimination]] ([[file:leetcode/python/1293-shortest-path-in-a-grid-with-obstacles-elimination.py][code]])
+  - [[https://leetcode.com/problems/as-far-from-land-as-possible/][As Far from Land as Possible]] ([[file:leetcode/python/1162-as-far-from-land-as-possible.py][code]])
+  - [[https://leetcode.com/problems/jump-game-iv/][Jump Game IV]] ([[file:leetcode/python/1345-jump-game-iv.py][code]])
   - [[https://leetcode.com/problems/minimum-genetic-mutation/][Minimum Genetic Mutation]] ([[file:leetcode/python/433-minimum-genetic-mutation.py][code]])
   - [[https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/][Nearest Exit from Entrance in Maze]] ([[file:leetcode/python/1926-nearest-exit-from-entrance-in-maze.py][code]])
-  - [[https://leetcode.com/problems/as-far-from-land-as-possible/][As Far from Land as Possible]] ([[file:leetcode/python/1162-as-far-from-land-as-possible.py][code]])
-  - [[https://leetcode.com/problems/shortest-path-with-alternating-colors/][Shortest Path with Alternating Colors]] ([[file:leetcode/python/1129-shortest-path-with-alternating-colors.py][code]])
-  - [[https://leetcode.com/problems/jump-game-iv/][Jump Game IV]] ([[file:leetcode/python/1345-jump-game-iv.py][code]])
   - [[https://leetcode.com/problems/shortest-bridge/description/][Shortest Bridge]] ([[file:leetcode/python/934-shortest-bridge.py][code]])
+  - [[https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/][Shortest Path in a Grid with Obstacles Elimination]] ([[file:leetcode/python/1293-shortest-path-in-a-grid-with-obstacles-elimination.py][code]])
+  - [[https://leetcode.com/problems/shortest-path-in-binary-matrix/][Shortest Path in Binary Matrix]]
+  - [[https://leetcode.com/problems/shortest-path-to-get-all-keys/][Shortest Path to Get All Keys]] ([[file:leetcode/python/864-shortest-path-to-get-all-keys.py][code]])
+  - [[https://leetcode.com/problems/shortest-path-with-alternating-colors/][Shortest Path with Alternating Colors]] ([[file:leetcode/python/1129-shortest-path-with-alternating-colors.py][code]])
+  - [[https://leetcode.com/problems/word-ladder-ii/][Word Ladder II]] ([[file:leetcode/python/126-word-ladder-ii.py][code]])
 - Bridge of Graph
   - [[https://leetcode.com/problems/critical-connections-in-a-network/][Critical Connections in a Network]] ([[file:src/tarjan_bridge_finding.py][Tarjan's bridge finding]])
 - Convex Hull
