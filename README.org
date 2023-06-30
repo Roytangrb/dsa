@@ -80,14 +80,15 @@
   - [[https://leetcode.com/problems/path-with-maximum-probability/][Path with Maximum Probability]] ([[file:leetcode/python/1514-path-with-maximum-probability.py][code]])
   - [[https://leetcode.com/problems/path-with-minimum-effort/][Path With Minimum Effort]]
 - Disjoint Set Union Find
-  - [[https://leetcode.com/problems/longest-consecutive-sequence/][Longest Consecutive Sequence]] ([[file:src/union_by_size.py][union by size]])
   - [[https://leetcode.com/problems/graph-valid-tree/][Graph Valid Tree]] ([[file:src/union_by_rank.py][union by rank]])
-  - [[https://leetcode.com/problems/smallest-string-with-swaps/][Smallest String With Swaps]]
+  - [[https://leetcode.com/problems/last-day-where-you-can-still-cross/][Last Day Where You Can Still Cross]] ([[file:leetcode/python/1970-last-day-where-you-can-still-cross.py][code]])
+  - [[https://leetcode.com/problems/lexicographically-smallest-equivalent-string/][Lexicographically Smallest Equivalent String]] ([[file:leetcode/python/1061-lexicographically-smallest-equivalent-string.py][code]])
+  - [[https://leetcode.com/problems/longest-consecutive-sequence/][Longest Consecutive Sequence]] ([[file:src/union_by_size.py][union by size]])
+  - [[https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/][Most Stones Removed with Same Row or Column]] ([[file:leetcode/python/947-most-stones-removed-with-same-row-or-column.py][code]])
+  - [[https://leetcode.com/problems/number-of-good-paths/][Number of Good Paths]] ([[file:leetcode/python/2421-number-of-good-paths.py][code]])
   - [[https://leetcode.com/problems/path-with-minimum-effort/][Path With Minimum Effort]]
   - [[https://leetcode.com/problems/satisfiability-of-equality-equations/][Satisfiability of Equality Equations]] ([[file:leetcode/python/990-satisfiability-of-equality-equations.py][code]])
-  - [[https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/][Most Stones Removed with Same Row or Column]] ([[file:leetcode/python/947-most-stones-removed-with-same-row-or-column.py][code]])
-  - [[https://leetcode.com/problems/lexicographically-smallest-equivalent-string/][Lexicographically Smallest Equivalent String]] ([[file:leetcode/python/1061-lexicographically-smallest-equivalent-string.py][code]])
-  - [[https://leetcode.com/problems/number-of-good-paths/][Number of Good Paths]] ([[file:leetcode/python/2421-number-of-good-paths.py][code]])
+  - [[https://leetcode.com/problems/smallest-string-with-swaps/][Smallest String With Swaps]]
 - [[https://en.wikipedia.org/wiki/Hamiltonian_path][Hamiltonian Path]]
   - [[https://leetcode.com/problems/unique-paths-iii/][Unique Paths III]] ([[file:leetcode/python/980-unique-paths-iii.py][code]])
 - Minimum Spanning Tree
