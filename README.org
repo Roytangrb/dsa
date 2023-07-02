@@ -265,28 +265,9 @@
     - [[https://leetcode.com/problems/maximum-profit-in-job-scheduling/][Maximum Profit in Job Scheduling]] ([[file:leetcode/python/1235-maximum-profit-in-job-scheduling.py][code]])
   - [[https://leetcode.com/problems/matchsticks-to-square/][Matchsticks to Square]] ([[file:leetcode/python/473-matchsticks-to-square.py][code]])
 - Combinatorics
+  - [[https://leetcode.com/problems/continuous-subarrays/][Continuous Subarrays]] ([[file:leetcode/python/2762-continuous-subarrays.py][code]])
   - [[https://leetcode.com/problems/count-subarrays-with-fixed-bounds/][Count Subarrays With Fixed Bounds]] ([[file:leetcode/python/2444-count-subarrays-with-fixed-bounds.py][code]])
   - [[https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/][Number of Ways to Reorder Array to Get Same BST]] ([[file:leetcode/python/1569-number-of-ways-to-reorder-array-to-get-same-bst.py][code]])
-- Information Theory
-  - [[https://leetcode.com/problems/poor-pigs/][Poor Pigs]] ([[file:leetcode/python/458-poor-pigs.py][code]])
-- Math & Geometry
-  - [[https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/][Can Make Arithmetic Progression From Sequence]] ([[file:leetcode/python/1502-can-make-arithmetic-progression-from-sequence.py][code]])
-  - [[https://leetcode.com/problems/ugly-number/][Ugly Number]] ([[file:leetcode/python/263-ugly-number.py][code]])
-  - [[https://leetcode.com/problems/rectangle-area/][Rectangle Area]] ([[file:leetcode/python/223-rectangle-area.py][code]])
-  - [[https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/][Minimum Rounds to Complete All Tasks]] ([[file:leetcode/python/2244-minimum-rounds-to-complete-all-tasks.py][code]])
-  - [[https://leetcode.com/problems/max-points-on-a-line/][Max Points on a Line]] ([[file:leetcode/python//149-max-points-on-a-line.py][code]])
-  - [[https://leetcode.com/problems/greatest-common-divisor-of-strings/][Greatest Common Divisor of Strings]] ([[file:leetcode/python/1071-greatest-common-divisor-of-strings.py][code]])
-  - [[https://leetcode.com/problems/add-digits/][Add Digits]] ([[file:leetcode/python/258-add-digits.py][code]])
-  - [[https://leetcode.com/problems/bulb-switcher/][Bulb Switcher]] ([[file:leetcode/python/319-bulb-switcher.py][code]])
-- Permutation
-  - [[https://leetcode.com/problems/combination-sum-iv/][Combination Sum IV]] ([[file:leetcode/python/377-combination-sum-iv.py][code]])
-  - [[https://leetcode.com/problems/count-vowels-permutation/][Count Vowels Permutation]] ([[file:leetcode/python/1220-count-vowels-permutation.py][code]])
-  - [[https://leetcode.com/problems/letter-case-permutation/][Letter Case Permutation]] ([[file:leetcode/python/784-letter-case-permutation.py][code]])
-  - [[https://leetcode.com/problems/orderly-queue/][Orderly Queue]] ([[file:leetcode/python/899-orderly-queue.py][code]])
-- Parsing
-  - [[https://leetcode.com/problems/utf-8-validation/][UTF-8 Validation]] ([[file:leetcode/python/393-utf-8-validation.py][code]])
-  - [[https://leetcode.com/problems/basic-calculator/][Basic Calculator]] ([[file:leetcode/python/224-basic-calculator.py][code]])
-  - [[https://leetcode.com/problems/evaluate-reverse-polish-notation/][Evaluate Reverse Polish Notation]] ([[file:leetcode/python/150-evaluate-reverse-polish-notation.py][code]])
 - DP
   - [[https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/][Best Time to Buy and Sell Stock IV]] ([[file:leetcode/python/188-best-time-to-buy-and-sell-stock-iv.py][code]])
   - [[https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/][Best Time to Buy and Sell Stock with Cooldown]] ([[file:leetcode/python/309-best-time-to-buy-and-sell-stock-with-cooldown.py][code]])
@@ -321,3 +302,23 @@
   - [[https://leetcode.com/problems/minimum-cost-to-make-array-equal/][Minimum Cost to Make Array Equal]] ([[file:leetcode/python/2448-minimum-cost-to-make-array-equal.py][code]])
   - [[https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/][Minimum Number of Arrows to Burst Balloons]] ([[file:leetcode/python/452-minimum-number-of-arrows-to-burst-balloons.py][code]])
   - [[https://leetcode.com/problems/minimum-time-to-make-rope-colorful/][Minimum Time to Make Rope Colorful]] ([[file:leetcode/python/1578-minimum-time-to-make-rope-colorful.py][code]])
+- Information Theory
+  - [[https://leetcode.com/problems/poor-pigs/][Poor Pigs]] ([[file:leetcode/python/458-poor-pigs.py][code]])
+- Math & Geometry
+  - [[https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/][Can Make Arithmetic Progression From Sequence]] ([[file:leetcode/python/1502-can-make-arithmetic-progression-from-sequence.py][code]])
+  - [[https://leetcode.com/problems/ugly-number/][Ugly Number]] ([[file:leetcode/python/263-ugly-number.py][code]])
+  - [[https://leetcode.com/problems/rectangle-area/][Rectangle Area]] ([[file:leetcode/python/223-rectangle-area.py][code]])
+  - [[https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/][Minimum Rounds to Complete All Tasks]] ([[file:leetcode/python/2244-minimum-rounds-to-complete-all-tasks.py][code]])
+  - [[https://leetcode.com/problems/max-points-on-a-line/][Max Points on a Line]] ([[file:leetcode/python//149-max-points-on-a-line.py][code]])
+  - [[https://leetcode.com/problems/greatest-common-divisor-of-strings/][Greatest Common Divisor of Strings]] ([[file:leetcode/python/1071-greatest-common-divisor-of-strings.py][code]])
+  - [[https://leetcode.com/problems/add-digits/][Add Digits]] ([[file:leetcode/python/258-add-digits.py][code]])
+  - [[https://leetcode.com/problems/bulb-switcher/][Bulb Switcher]] ([[file:leetcode/python/319-bulb-switcher.py][code]])
+- Parsing
+  - [[https://leetcode.com/problems/utf-8-validation/][UTF-8 Validation]] ([[file:leetcode/python/393-utf-8-validation.py][code]])
+  - [[https://leetcode.com/problems/basic-calculator/][Basic Calculator]] ([[file:leetcode/python/224-basic-calculator.py][code]])
+  - [[https://leetcode.com/problems/evaluate-reverse-polish-notation/][Evaluate Reverse Polish Notation]] ([[file:leetcode/python/150-evaluate-reverse-polish-notation.py][code]])
+- Permutation
+  - [[https://leetcode.com/problems/combination-sum-iv/][Combination Sum IV]] ([[file:leetcode/python/377-combination-sum-iv.py][code]])
+  - [[https://leetcode.com/problems/count-vowels-permutation/][Count Vowels Permutation]] ([[file:leetcode/python/1220-count-vowels-permutation.py][code]])
+  - [[https://leetcode.com/problems/letter-case-permutation/][Letter Case Permutation]] ([[file:leetcode/python/784-letter-case-permutation.py][code]])
+  - [[https://leetcode.com/problems/orderly-queue/][Orderly Queue]] ([[file:leetcode/python/899-orderly-queue.py][code]])

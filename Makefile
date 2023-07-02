@@ -22,6 +22,7 @@ fmt:
 	isort --skip-glob env/* .
 	@ echo "Formating Rust..."
 	@ find ./leetcode/rust -type f -name "*.rs" -exec rustfmt {} +
+	@ echo "Done"
 
 
 # Convert org to html
