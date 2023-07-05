@@ -36,14 +36,11 @@
 - [[https://leetcode.com/problems/find-duplicate-subtrees/][Find Duplicate Subtrees]] ([[file:leetcode/python/652-find-duplicate-subtrees.py][code]])
 
 * Bit Manipulation
-- Bitset
-  - [[https://leetcode.com/problems/maximum-product-of-word-lengths/][Maximum Product of Word Lengths]] ([[file:leetcode/python/318-maximum-product-of-word-lengths.py][code]])
-  - [[https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/][Maximum Length of a Concatenated String with Unique Characters]] ([[file:leetcode/python/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py][code]])
+- Bit Set
   - [[https://leetcode.com/problems/image-overlap/][Image Overlap]] ([[file:leetcode/python/835-image-overlap.py][code]])
-- Unset Rightmost Bit
-  - [[https://leetcode.com/problems/number-of-1-bits/][Number of 1 Bits]] ([[file:leetcode/python/191-number-of-1-bits.py][code]])
-- Unset Leftmost Bit
-  - [[https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/][Check If a String Contains All Binary Codes of Size K]] ([[file:leetcode/python/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py][code]])
+  - [[https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/][Maximum Length of a Concatenated String with Unique Characters]] ([[file:leetcode/python/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py][code]])
+  - [[https://leetcode.com/problems/maximum-product-of-word-lengths/][Maximum Product of Word Lengths]] ([[file:leetcode/python/318-maximum-product-of-word-lengths.py][code]])
+  - [[https://leetcode.com/problems/single-number-ii/][Single Number II]] ([[file:leetcode/python/137-single-number-ii.py][code]])
 - Get Leftmost Set Bit
   - [[https://leetcode.com/problems/divide-two-integers/][Divide Two Integers]] ([[file:leetcode/python/29-divide-two-integers.py][Base 2 Long Division]])
 - Get Rightmost Set Bit
@@ -51,8 +48,12 @@
   - [[https://leetcode.com/problems/set-mismatch/][Set Mismatch]] ([[file:leetcode/python/645-set-mismatch.py][code]])
 - Is Power of 2 (popcount = 1)
   - [[https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/][Concatenation of Consecutive Binary Numbers]] ([[file:leetcode/python/1680-concatenation-of-consecutive-binary-numbers.py][code]])
-- [[https://leetcode.com/problems/single-element-in-a-sorted-array/][Single Element in a Sorted Array]] ([[file:leetcode/python/540-single-element-in-a-sorted-array.py][code]])
 - [[https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/][Minimum Flips to Make a OR b Equal to c]] ([[file:leetcode/python/1318-minimum-flips-to-make-a-or-b-equal-to-c.py][py]]) ([[file:leetcode/c/1318-minimum-flips-to-make-a-or-b-equal-to-c.c][c]])
+- [[https://leetcode.com/problems/single-element-in-a-sorted-array/][Single Element in a Sorted Array]] ([[file:leetcode/python/540-single-element-in-a-sorted-array.py][code]])
+- Unset Leftmost Bit
+  - [[https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/][Check If a String Contains All Binary Codes of Size K]] ([[file:leetcode/python/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py][code]])
+- Unset Rightmost Bit
+  - [[https://leetcode.com/problems/number-of-1-bits/][Number of 1 Bits]] ([[file:leetcode/python/191-number-of-1-bits.py][code]])
 
 * Graph
 - [[https://en.wikipedia.org/wiki/Bipartite_graph][Bipartite Graph]]
