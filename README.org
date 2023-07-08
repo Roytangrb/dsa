@@ -206,6 +206,7 @@
   - [[https://leetcode.com/problems/find-original-array-from-doubled-array/][Find Original Array From Doubled Array]] ([[file:leetcode/python/2007-find-original-array-from-doubled-array.py][code]])
   - [[https://leetcode.com/problems/largest-perimeter-triangle/][Largest Perimeter Triangle]] ([[file:leetcode/python/976-largest-perimeter-triangle.py][code]])
   - [[https://leetcode.com/problems/last-stone-weight/][Last Stone Weight]] ([[file:leetcode/python/1046-last-stone-weight.py][code]])
+  - [[https://leetcode.com/problems/put-marbles-in-bags/][Put Marbles in Bags]] ([[file:leetcode/python/2551-put-marbles-in-bags.py][code]])
 
 * Stack
 - [[https://leetcode.com/problems/implement-queue-using-stacks/][Implement Queue using Stacks]] ([[file:leetcode/python/232-implement-queue-using-stacks.py][code]])
