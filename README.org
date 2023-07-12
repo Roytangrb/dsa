@@ -97,6 +97,7 @@
     - [[file:src/kruskal_mst.py][Kruskal's Algorithm]] with union find
     - [[file:src/prim_mst.py][Prim's Algorithm]] with priority queue
 - Topological Sort
+  - [[https://leetcode.com/problems/find-eventual-safe-states/][Find Eventual Safe States]] ([[file:leetcode/python/802-find-eventual-safe-states.py][code]])
   - [[https://leetcode.com/problems/graph-valid-tree/][Graph Valid Tree]] ([[file:src/topological_sort.py][code]])
   - [[https://leetcode.com/problems/longest-increasing-path-in-a-matrix/][Longest Increasing Path in a Matrix]] ([[file:leetcode/python/329-longest-increasing-path-in-a-matrix.py][code]])
   - [[https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/][Minimum Number of Vertices to Reach All Nodes]] ([[file:leetcode/python/1557-minimum-number-of-vertices-to-reach-all-nodes.py][code]])
