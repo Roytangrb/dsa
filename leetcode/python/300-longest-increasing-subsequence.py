@@ -17,7 +17,7 @@ class Solution:
                 # extend the current longest LIS
                 tails.append(nums[i])
             else:
-                # exisiting length of LIS is found, replace end element with smaller value
+                # existing length of LIS is found, replace end element with smaller value
                 tails[bisect.bisect_left(tails, nums[i])] = nums[i]
 
         return len(tails)
