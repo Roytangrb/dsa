@@ -12,7 +12,6 @@ class Solution:
         # consecutive sequence of 1..k
         usageLimits.sort()
         nums = usageLimits
-        n = len(nums)
 
         total = 0  # running total prefix nums frequency
         k = 1  # length of next group attempt
