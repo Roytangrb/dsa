@@ -36,6 +36,8 @@
 - [[https://leetcode.com/problems/find-duplicate-subtrees/][Find Duplicate Subtrees]] ([[file:leetcode/python/652-find-duplicate-subtrees.py][code]])
 
 * Bit Manipulation
+- Bit Mask
+  - [[https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/][Count Paths That Can Form a Palindrome in a Tree]] ([[file:leetcode/python/2791-count-paths-that-can-form-a-palindrome-in-a-tree.py][code]])
 - Bit Set
   - [[https://leetcode.com/problems/image-overlap/][Image Overlap]] ([[file:leetcode/python/835-image-overlap.py][code]])
   - [[https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/][Maximum Length of a Concatenated String with Unique Characters]] ([[file:leetcode/python/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py][code]])
