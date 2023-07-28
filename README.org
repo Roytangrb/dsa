@@ -191,6 +191,7 @@
   - [[https://leetcode.com/problems/koko-eating-bananas/][Koko Eating Bananas]] ([[file:leetcode/python/875-koko-eating-bananas.py][code]])
 - Longest Increasing Subsequence (LIS)
   - [[https://leetcode.com/problems/longest-increasing-subsequence/][Longest Increasing Subsequence]] ([[file:leetcode/python/300-longest-increasing-subsequence.py][code]])
+  - [[https://leetcode.com/problems/number-of-longest-increasing-subsequence/][Number of Longest Increasing Subsequence]]
   - [[https://leetcode.com/problems/russian-doll-envelopes/][Russian Doll Envelopes]] ([[file:leetcode/python/354-russian-doll-envelopes.py][DP/ O(nlogn) with Patience Sort]])
 - Quickselect
   - [[https://leetcode.com/problems/kth-largest-element-in-an-array/][Kth Largest Element in an Array]] ([[file:leetcode/python/215-kth-largest-element-in-an-array.py][code]])
@@ -276,29 +277,30 @@
   - [[https://leetcode.com/problems/count-subarrays-with-fixed-bounds/][Count Subarrays With Fixed Bounds]] ([[file:leetcode/python/2444-count-subarrays-with-fixed-bounds.py][code]])
   - [[https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/][Number of Ways to Reorder Array to Get Same BST]] ([[file:leetcode/python/1569-number-of-ways-to-reorder-array-to-get-same-bst.py][code]])
 - DP
+  - [[https://leetcode.com/problems/arithmetic-slices-ii-subsequence/][Arithmetic Slices II]] ([[file:leetcode/python/446-arithmetic-slices-ii-subsequence.py][code]])
   - [[https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/][Best Time to Buy and Sell Stock IV]] ([[file:leetcode/python/188-best-time-to-buy-and-sell-stock-iv.py][code]])
   - [[https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/][Best Time to Buy and Sell Stock with Cooldown]] ([[file:leetcode/python/309-best-time-to-buy-and-sell-stock-with-cooldown.py][code]])
   - [[https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/][Best Time to Buy and Sell Stock with Transaction Fee]] ([[file:leetcode/python/714-best-time-to-buy-and-sell-stock-with-transaction-fee.py][code]])
-  - [[https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/][Maximum Score from Performing Multiplication Operations]] ([[file:leetcode/python/1770-maximum-score-from-performing-multiplication-operations.py][code]])
-  - [[https://leetcode.com/problems/minimum-number-of-refueling-stops/][Minimum Number of Refueling Stops]]
-  - [[https://leetcode.com/problems/maximum-length-of-repeated-subarray/][Maximum Length of Repeated Subarray]] ([[file:leetcode/python/718-maximum-length-of-repeated-subarray.py][code]])
-  - [[https://leetcode.com/problems/push-dominoes/][Push Dominoes]] ([[file:leetcode/python/838-push-dominoes.py][code]])
-  - [[https://leetcode.com/problems/domino-and-tromino-tiling/][Domino and Tromino Tiling]] ([[file:leetcode/python/790-domino-and-tromino-tiling.py][code]])
   - [[https://leetcode.com/problems/decode-ways/][Decode Ways]] ([[file:leetcode/python/91-decode-ways.py][code]])
-  - [[https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/][Number of Dice Rolls With Target Sum]] ([[file:leetcode/python/1155-number-of-dice-rolls-with-target-sum.py][code]])
-  - [[https://leetcode.com/problems/increasing-triplet-subsequence/][Increasing Triplet Subsequence]] ([[file:leetcode/python/334-increasing-triplet-subsequence.py][code]])
-  - [[https://leetcode.com/problems/string-compression-ii/][String Compression II]] ([[file:leetcode/python/1531-string-compression-ii.py][code]])
-  - [[https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/][Minimum Difficulty of a Job Schedule]] ([[file:leetcode/python/1335-minimum-difficulty-of-a-job-schedule.py][code]])
-  - [[https://leetcode.com/problems/perfect-squares/][Perfect Squares]]
-  - [[https://leetcode.com/problems/arithmetic-slices-ii-subsequence/][Arithmetic Slices II]] ([[file:leetcode/python/446-arithmetic-slices-ii-subsequence.py][code]])
-  - [[https://leetcode.com/problems/longest-arithmetic-subsequence/][Longest Arithmetic Subsequence]] ([[file:leetcode/python/1027-longest-arithmetic-subsequence.py][code]])
-  - [[https://leetcode.com/problems/minimum-falling-path-sum/][Minimum Falling Path Sum]] ([[file:leetcode/python/931-minimum-falling-path-sum.py][code]])
+  - [[https://leetcode.com/problems/domino-and-tromino-tiling/][Domino and Tromino Tiling]] ([[file:leetcode/python/790-domino-and-tromino-tiling.py][code]])
   - [[https://leetcode.com/problems/flip-string-to-monotone-increasing/][Flip String to Monotone Increasing]] ([[file:leetcode/python/926-flip-string-to-monotone-increasing.py][code]])
-  - [[https://leetcode.com/problems/new-21-game/][New 21 Game]] ([[file:leetcode/python/837-new-21-game.py][code]])
-  - [[https://leetcode.com/problems/stone-game-ii/][Stone Game II]] ([[file:leetcode/python/1140-stone-game-ii.py][code]])
-  - [[https://leetcode.com/problems/stone-game-iii/][Stone Game III]] ([[file:leetcode/python/1406-stone-game-iii.py][code]])
+  - [[https://leetcode.com/problems/increasing-triplet-subsequence/][Increasing Triplet Subsequence]] ([[file:leetcode/python/334-increasing-triplet-subsequence.py][code]])
   - Kadane's Algorithm
     - [[https://leetcode.com/problems/maximum-sum-circular-subarray/][Maximum Sum Circular Subarray]] ([[file:leetcode/python/918-maximum-sum-circular-subarray.py][code]])
+  - [[https://leetcode.com/problems/longest-arithmetic-subsequence/][Longest Arithmetic Subsequence]] ([[file:leetcode/python/1027-longest-arithmetic-subsequence.py][code]])
+  - [[https://leetcode.com/problems/maximum-length-of-repeated-subarray/][Maximum Length of Repeated Subarray]] ([[file:leetcode/python/718-maximum-length-of-repeated-subarray.py][code]])
+  - [[https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/][Maximum Score from Performing Multiplication Operations]] ([[file:leetcode/python/1770-maximum-score-from-performing-multiplication-operations.py][code]])
+  - [[https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/][Minimum Difficulty of a Job Schedule]] ([[file:leetcode/python/1335-minimum-difficulty-of-a-job-schedule.py][code]])
+  - [[https://leetcode.com/problems/minimum-falling-path-sum/][Minimum Falling Path Sum]] ([[file:leetcode/python/931-minimum-falling-path-sum.py][code]])
+  - [[https://leetcode.com/problems/minimum-number-of-refueling-stops/][Minimum Number of Refueling Stops]]
+  - [[https://leetcode.com/problems/new-21-game/][New 21 Game]] ([[file:leetcode/python/837-new-21-game.py][code]])
+  - [[https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/][Number of Dice Rolls With Target Sum]] ([[file:leetcode/python/1155-number-of-dice-rolls-with-target-sum.py][code]])
+  - [[https://leetcode.com/problems/perfect-squares/][Perfect Squares]]
+  - [[https://leetcode.com/problems/predict-the-winner/][Predict the Winner]] ([[file:leetcode/python/486-predict-the-winner.py][code]])
+  - [[https://leetcode.com/problems/push-dominoes/][Push Dominoes]] ([[file:leetcode/python/838-push-dominoes.py][code]])
+  - [[https://leetcode.com/problems/stone-game-ii/][Stone Game II]] ([[file:leetcode/python/1140-stone-game-ii.py][code]])
+  - [[https://leetcode.com/problems/stone-game-iii/][Stone Game III]] ([[file:leetcode/python/1406-stone-game-iii.py][code]])
+  - [[https://leetcode.com/problems/string-compression-ii/][String Compression II]] ([[file:leetcode/python/1531-string-compression-ii.py][code]])
 - Greedy
   - [[https://leetcode.com/problems/break-a-palindrome/][Break a Palindrome]] ([[file:leetcode/python/1328-break-a-palindrome.py][code]])
   - [[https://leetcode.com/problems/integer-to-roman/][Integer to Roman]] ([[file:leetcode/python/12-integer-to-roman.py][code]])
