@@ -28,9 +28,10 @@
   - [[https://leetcode.com/problems/count-of-smaller-numbers-after-self/][Count of Smaller Numbers After Self]] ([[file:leetcode/python/315-count-of-smaller-numbers-after-self.py][code]])
   - [[https://leetcode.com/problems/my-calendar-iii/][My Calendar III]] ([[file:leetcode/python/732-my-calendar-iii.py][code]])
 - Self-balancing Trees
-  - [[https://leetcode.com/problems/time-based-key-value-store/][Time Based Key-Value Store]] ([[file:leetcode/python/981-time-based-key-value-store.py][code]])
+  - [[https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/][Minimum Absolute Difference Between Elements With Constraint]] ([[file:leetcode/python/2817-minimum-absolute-difference-between-elements-with-constraint.py][code]])
   - [[https://leetcode.com/problems/my-calendar-iii/][My Calendar III]] ([[file:leetcode/python/732-my-calendar-iii.py][code]])
   - [[https://leetcode.com/problems/smallest-number-in-infinite-set/][Smallest Number in Infinite Set]] ([[file:leetcode/python/2336-smallest-number-in-infinite-set.py][code]])
+  - [[https://leetcode.com/problems/time-based-key-value-store/][Time Based Key-Value Store]] ([[file:leetcode/python/981-time-based-key-value-store.py][code]])
 - Lowest Common Ancestor (LCA)
   - [[https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/][Lowest Common Ancestor of a Binary Tree]] ([[file:leetcode/python/236-lowest-common-ancestor-of-a-binary-tree.py][code]])
   - [[https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/][Lowest Common Ancestor of a Binary Search Tree]] ([[file:leetcode/python/235-lowest-common-ancestor-of-a-binary-search-tree.py][code]])
