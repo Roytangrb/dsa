@@ -181,6 +181,8 @@
 
 * Queue
 - [[https://leetcode.com/problems/design-circular-queue/][Design Circular Queue]] ([[file:leetcode/python/622-design-circular-queue.py][code]])
+- Monotonic Queue
+  - [[https://leetcode.com/problems/sliding-window-maximum/][Sliding Window Maximum]] ([[file:leetcode/python/239-sliding-window-maximum.py][code]])
 
 * Sorting
 - Binary Search
