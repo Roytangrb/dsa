@@ -270,6 +270,7 @@
 - Two/K Pointers
   - [[https://leetcode.com/problems/number-of-matching-subsequences/][Number of Matching Subsequences]] ([[file:leetcode/python/792-number-of-matching-subsequences.py][code]])
 - Z Algorithm
+  - [[https://leetcode.com/contest/weekly-contest-362/problems/string-transformation/][String Transformation]]
   - [[https://leetcode.com/problems/sum-of-scores-of-built-strings/][Sum of Scores of Built Strings]] ([[file:src/z_algorithm.py][code]])
 
 * Others
