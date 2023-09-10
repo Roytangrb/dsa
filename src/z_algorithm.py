@@ -18,7 +18,7 @@ def compute_z(s: str) -> list[int]:
             # operating inside the z-box
             if z_values[i - left] < right - i + 1:
                 # if the matched substring at index i does not
-                # strech till right bound of z-box, just copy
+                # stretch till right bound of z-box, just copy
                 z_values[i] = z_values[i - left]
             else:
                 # else keep expanding the z-box
