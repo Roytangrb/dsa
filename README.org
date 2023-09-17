@@ -5,6 +5,7 @@
 * Binary Search
 - [[https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/][Capacity To Ship Packages Within D Days]] ([[file:leetcode/python/1011-capacity-to-ship-packages-within-d-days.py][code]])
 - [[https://leetcode.com/problems/count-complete-tree-nodes/][Count Complete Tree Nodes]] ([[file:leetcode/python/222-count-complete-tree-nodes.py][code]])
+- [[https://leetcode.com/problems/maximum-number-of-alloys/][Maximum Number of Alloys]] ([[file:leetcode/python/2861-maximum-number-of-alloys.py][code]])
 - [[https://leetcode.com/problems/search-in-rotated-sorted-array/][Search in Rotated Sorted Array]] ([[file:leetcode/c/33-search-in-rotated-sorted-array.c][code]])
 
 * Binary Tree
