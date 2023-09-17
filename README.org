@@ -328,8 +328,9 @@
   - [[https://leetcode.com/problems/greatest-common-divisor-of-strings/][Greatest Common Divisor of Strings]] ([[file:leetcode/python/1071-greatest-common-divisor-of-strings.py][code]])
   - [[https://leetcode.com/problems/max-points-on-a-line/][Max Points on a Line]] ([[file:leetcode/python//149-max-points-on-a-line.py][code]])
   - [[https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/][Minimum Rounds to Complete All Tasks]] ([[file:leetcode/python/2244-minimum-rounds-to-complete-all-tasks.py][code]])
-  - Prime Factorization
+  - Factorization
     - [[https://leetcode.com/problems/apply-operations-to-maximize-score/][Apply Operations to Maximize Score]] ([[file:leetcode/python/2818-apply-operations-to-maximize-score.py][code]])
+    - [[https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/][Maximum Element-Sum of a Complete Subset of Indices]] ([[file:leetcode/python/2862-maximum-element-sum-of-a-complete-subset-of-indices.py][code]])
   - [[https://leetcode.com/problems/rectangle-area/][Rectangle Area]] ([[file:leetcode/python/223-rectangle-area.py][code]])
   - [[https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes][Sieve of Eratosthenes]]
     - [[https://leetcode.com/problems/prime-pairs-with-target-sum/][Prime Pairs With Target Sum]] ([[file:leetcode/python/2761-prime-pairs-with-target-sum.py][code]])
