@@ -12,11 +12,9 @@ class Solution:
 
         @cache
         def dfs(w):
-            if not w:
-                return 0
-            if w not in words_set:
+            if not w or w not in words_set:
                 return 0
 
             return 1 + max(dfs(w[:i] + w[i + 1 :]) for i in range(len(w)))
 
-        return max(dfs(words[i]) for i in range(len(words)))
+        return max(dfs(word) for word in words)
