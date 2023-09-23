@@ -12,7 +12,7 @@ class Solution:
 
         @cache
         def dfs(w):
-            if not w or w not in words_set:
+            if w not in words_set:
                 return 0
 
             return 1 + max(dfs(w[:i] + w[i + 1 :]) for i in range(len(w)))
