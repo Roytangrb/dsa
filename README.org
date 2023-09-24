@@ -225,6 +225,7 @@
 - Monotonic Stack
   - [[https://leetcode.com/problems/132-pattern/][132 Pattern]] ([[file:src/find_132_pattern.py][code]])
   - [[https://leetcode.com/problems/apply-operations-to-maximize-score/][Apply Operations to Maximize Score]] ([[file:leetcode/python/2818-apply-operations-to-maximize-score.py][code]])
+  - [[https://leetcode.com/problems/beautiful-towers-ii/][Beautiful Towers II]] ([[file:leetcode/python/2866-beautiful-towers-ii.py][code]])
   - [[https://leetcode.com/problems/daily-temperatures/][Daily Temperatures]] ([[file:leetcode/python/739-daily-temperatures.py][code]])
   - [[https://leetcode.com/problems/jump-game-vi/][Jump Game VI]] ([[file:leetcode/python/1696-jump-game-vi.py][code]])
   - [[https://leetcode.com/problems/largest-rectangle-in-histogram/][Largest Rectangle in Histogram]] ([[file:leetcode/python/84-largest-rectangle-in-histogram.py][code]])
