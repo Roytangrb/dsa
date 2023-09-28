@@ -337,10 +337,11 @@
   - [[https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes][Sieve of Eratosthenes]]
     - [[https://leetcode.com/problems/prime-pairs-with-target-sum/][Prime Pairs With Target Sum]] ([[file:leetcode/python/2761-prime-pairs-with-target-sum.py][code]])
   - [[https://leetcode.com/problems/ugly-number/][Ugly Number]] ([[file:leetcode/python/263-ugly-number.py][code]])
-- Parsing
-  - [[https://leetcode.com/problems/utf-8-validation/][UTF-8 Validation]] ([[file:leetcode/python/393-utf-8-validation.py][code]])
+- Parsing/Codec
   - [[https://leetcode.com/problems/basic-calculator/][Basic Calculator]] ([[file:leetcode/python/224-basic-calculator.py][code]])
+  - [[https://leetcode.com/problems/decoded-string-at-index/][Decoded String at Index]] ([[file:leetcode/python/880-decoded-string-at-index.py][code]])
   - [[https://leetcode.com/problems/evaluate-reverse-polish-notation/][Evaluate Reverse Polish Notation]] ([[file:leetcode/python/150-evaluate-reverse-polish-notation.py][code]])
+  - [[https://leetcode.com/problems/utf-8-validation/][UTF-8 Validation]] ([[file:leetcode/python/393-utf-8-validation.py][code]])
 - Permutation
   - [[https://leetcode.com/problems/combination-sum-iv/][Combination Sum IV]] ([[file:leetcode/python/377-combination-sum-iv.py][code]])
   - [[https://leetcode.com/problems/count-vowels-permutation/][Count Vowels Permutation]] ([[file:leetcode/python/1220-count-vowels-permutation.py][code]])
