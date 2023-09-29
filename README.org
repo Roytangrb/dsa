@@ -45,6 +45,7 @@
   - [[https://leetcode.com/problems/image-overlap/][Image Overlap]] ([[file:leetcode/python/835-image-overlap.py][code]])
   - [[https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/][Maximum Length of a Concatenated String with Unique Characters]] ([[file:leetcode/python/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py][code]])
   - [[https://leetcode.com/problems/maximum-product-of-word-lengths/][Maximum Product of Word Lengths]] ([[file:leetcode/python/318-maximum-product-of-word-lengths.py][code]])
+  - [[https://leetcode.com/problems/optimal-partition-of-string/][Optimal Partition of String]] ([[file:leetcode/python/2405-optimal-partition-of-string.py][code]])
   - [[https://leetcode.com/problems/single-number-ii/][Single Number II]] ([[file:leetcode/python/137-single-number-ii.py][code]])
 - Get Leftmost Set Bit
   - [[https://leetcode.com/problems/divide-two-integers/][Divide Two Integers]] ([[file:leetcode/python/29-divide-two-integers.py][Base 2 Long Division]])
