@@ -224,7 +224,7 @@
 - [[https://leetcode.com/problems/implement-queue-using-stacks/][Implement Queue using Stacks]] ([[file:leetcode/python/232-implement-queue-using-stacks.py][code]])
 - [[https://leetcode.com/problems/longest-valid-parentheses/][Longest Valid Parentheses]] ([[file:leetcode/python/32-longest-valid-parentheses.py][code]])
 - Monotonic Stack
-  - [[https://leetcode.com/problems/132-pattern/][132 Pattern]] ([[file:src/find_132_pattern.py][code]])
+  - [[https://leetcode.com/problems/132-pattern/][132 Pattern]] ([[file:leetcode/python/456-132-pattern.py][code]])
   - [[https://leetcode.com/problems/apply-operations-to-maximize-score/][Apply Operations to Maximize Score]] ([[file:leetcode/python/2818-apply-operations-to-maximize-score.py][code]])
   - [[https://leetcode.com/problems/beautiful-towers-ii/][Beautiful Towers II]] ([[file:leetcode/python/2866-beautiful-towers-ii.py][code]])
   - [[https://leetcode.com/problems/daily-temperatures/][Daily Temperatures]] ([[file:leetcode/python/739-daily-temperatures.py][code]])
