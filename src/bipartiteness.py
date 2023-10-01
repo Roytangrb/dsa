@@ -28,7 +28,7 @@ def is_bipartite(graph: list[list[int]]) -> bool:
     return all(dfs(u, 0) for u in range(n) if colors[u] is None)
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     testcases = (
         ([[1, 2, 3], [0, 2], [0, 1, 3], [0, 2]], False),
         ([[1, 3], [0, 2], [1, 3], [0, 2]], True),

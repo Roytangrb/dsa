@@ -45,7 +45,7 @@ def union(x, y, parent, rank) -> bool:
     return True
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     testcases = (
         (5, [[0, 1], [0, 2], [0, 3], [1, 4]], True),  # valid
         (5, [[0, 1], [1, 2], [2, 3], [1, 3], [1, 4]], False),  # cycle

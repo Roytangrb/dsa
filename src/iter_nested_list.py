@@ -28,7 +28,7 @@ class NestedIterator:
         return self.peeked is not None
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     testcases = (
         ([[1, 1], 2, [1, 1]], [1, 1, 2, 1, 1]),
         ([1, [4, [6]]], [1, 4, 6]),

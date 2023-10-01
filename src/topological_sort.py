@@ -56,5 +56,5 @@ def test_is_graph_valid_tree():
         assert is_graph_valid_tree(n, edges) == expected
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     test_is_graph_valid_tree()

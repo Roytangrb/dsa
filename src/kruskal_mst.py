@@ -29,7 +29,7 @@ def minimum_spanning_tree(points: list[list[int]]) -> int:
     return ans
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     testcases = (
         ([[0, 0], [2, 2], [3, 10], [5, 2], [7, 0]], 20),
         ([[3, 12], [-2, 5], [-4, 1]], 18),

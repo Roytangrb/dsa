@@ -56,7 +56,7 @@ def critical_connections(n: int, connections: list[list[int]]) -> list[list[int]
     return bridges
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     testcases = (
         (4, [[0, 1], [1, 2], [2, 0], [1, 3]], [[1, 3]]),
         (2, [[0, 1]], [[0, 1]]),

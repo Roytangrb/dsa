@@ -54,7 +54,7 @@ class FileSystem:
         return parent[last].val
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     fs = FileSystem()
     assert (fs.create_path("/a", 1), fs.get("/a")) == (True, 1)
 

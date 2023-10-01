@@ -43,7 +43,7 @@ def minimum_weight_subgraph(
     return ans if ans != float("inf") else -1
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     assert (
         minimum_weight_subgraph(
             n=6,

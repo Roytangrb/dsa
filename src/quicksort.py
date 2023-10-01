@@ -25,5 +25,5 @@ def test_sort_by_parity():
         assert nums == expected
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     test_sort_by_parity()

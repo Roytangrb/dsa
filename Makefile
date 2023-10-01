@@ -1,7 +1,7 @@
 # Run all python scripts under src
 .PHONY: all
 all:
-	find src -depth 1 -type f -name "*.py" -exec python {} ";"
+	@ find src -depth 1 -type f -name "*.py" -exec python {} ";"
 
 
 # Install dependencies
