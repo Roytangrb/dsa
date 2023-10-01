@@ -22,12 +22,12 @@ class NestedInteger:
         return self._val
 
     @classmethod
-    def create_list(cls, values: list) -> list:
+    def from_list(cls, values: list) -> "NestedInteger":
         nested_list = []
         for el in values:
             if isinstance(el, int):
                 nested_list.append(cls(el))
             else:
-                nested_list.append(cls.create_list(el))
+                nested_list.append(cls.from_list(el))
 
-        return nested_list
+        return cls(nested_list)

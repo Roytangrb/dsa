@@ -32,10 +32,11 @@ if __name__ == "__main__":
     testcases = (
         ([[1, 1], 2, [1, 1]], [1, 1, 2, 1, 1]),
         ([1, [4, [6]]], [1, 4, 6]),
+        ([1], [1]),
     )
 
     for nested_list, expected in testcases:
-        it = NestedIterator(NestedInteger.create_list(nested_list))
+        it = NestedIterator([NestedInteger.from_list(nested_list)])
         actual = []
         while it.hasNext():
             actual.append(it.next())

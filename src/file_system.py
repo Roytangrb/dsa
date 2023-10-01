@@ -31,8 +31,7 @@ class FileSystem:
         """
         *dirs, last = path.removeprefix("/").split("/")
         parent = self.cd(*dirs)
-
-        if not parent or last in parent:
+        if parent is None or last in parent:
             return False
 
         parent[last] = TrieNode({}, value)
