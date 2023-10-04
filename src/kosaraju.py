@@ -1,4 +1,4 @@
-"""Kosaraju's algorithm to find SCCs in DAG"""
+"""Kosaraju's algorithm to find SCCs in directed graphs"""
 
 
 from collections import defaultdict
@@ -23,9 +23,9 @@ class Kosaraju:
         self.adj = defaultdict(list)
         self.radj = defaultdict(list)
         for u, v in edges:
-            # construct dag to compute finished time for each node
+            # construct graph to compute finished time for each node
             self.add_edge(self.adj, u, v)
-            # construct transposed dag to find SCCs
+            # construct transposed graph to find SCCs
             self.add_edge(self.radj, v, u)
 
     def add_edge(self, graph: defaultdict[int, list], u: int, v: int) -> None:
@@ -39,7 +39,7 @@ class Kosaraju:
         for i in range(self.n):
             self._dfs1(i, visited, stack)
 
-        # second dfs on transposed dag in finished time descending order
+        # second dfs on transposed graph in finished time descending order
         visited = [False] * self.n
         scc_componets = []
         while stack:

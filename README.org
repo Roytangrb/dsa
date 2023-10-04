@@ -111,6 +111,9 @@
 - Modelling/Simulation
   - [[https://leetcode.com/problems/escape-the-spreading-fire/][Escape the Spreading Fire]]
   - [[https://leetcode.com/problems/out-of-boundary-paths/][Out of Boundary Paths]] ([[file:leetcode/python/576-out-of-boundary-paths.py][code]])
+- Strongly Connected Components (SCC)
+  - [[file:src/kosaraju.py][Kosaraju's algorithm]]
+    - [[https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/][Count Visited Nodes in a Directed Graph]] ([[file:leetcode/python/2876-count-visited-nodes-in-a-directed-graph.py][code]])
 - Traversal
   - [[https://leetcode.com/problems/pacific-atlantic-water-flow/][Pacific Atlantic Water Flow]] ([[file:leetcode/python/417-pacific-atlantic-water-flow.py][code]])
   - [[https://leetcode.com/problems/word-search/][Word Search]] ([[file:leetcode/python/79-word-search.py][code]])
