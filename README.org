@@ -316,6 +316,7 @@
   - [[https://leetcode.com/problems/stone-game-iii/][Stone Game III]] ([[file:leetcode/python/1406-stone-game-iii.py][code]])
   - [[https://leetcode.com/problems/string-compression-ii/][String Compression II]] ([[file:leetcode/python/1531-string-compression-ii.py][code]])
 - Greedy
+  - [[https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/][Apply Operations to Make All Array Elements Equal to Zero]] ([[file:leetcode/python/2772-apply-operations-to-make-all-array-elements-equal-to-zero.py][code]])
   - [[https://leetcode.com/problems/break-a-palindrome/][Break a Palindrome]] ([[file:leetcode/python/1328-break-a-palindrome.py][code]])
   - [[https://leetcode.com/problems/integer-to-roman/][Integer to Roman]] ([[file:leetcode/python/12-integer-to-roman.py][code]])
   - [[https://leetcode.com/problems/jump-game-ii/][Jump Game II]] ([[file:leetcode/python/45-jump-game-ii.py][code]])
