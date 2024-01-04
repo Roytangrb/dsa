@@ -200,7 +200,7 @@
   - [[https://leetcode.com/problems/koko-eating-bananas/][Koko Eating Bananas]] ([[file:leetcode/python/875-koko-eating-bananas.py][code]])
 - Longest Increasing Subsequence (LIS)
   - [[https://leetcode.com/problems/longest-increasing-subsequence/][Longest Increasing Subsequence]] ([[file:leetcode/python/300-longest-increasing-subsequence.py][code]])
-  - [[https://leetcode.com/problems/number-of-longest-increasing-subsequence/][Number of Longest Increasing Subsequence]]
+  - [[https://leetcode.com/problems/number-of-longest-increasing-subsequence/][Number of Longest Increasing Subsequence]] ([[file:leetcode/python/673-number-of-longest-increasing-subsequence.py][code]])
   - [[https://leetcode.com/problems/russian-doll-envelopes/][Russian Doll Envelopes]] ([[file:leetcode/python/354-russian-doll-envelopes.py][DP/ O(nlogn) with Patience Sort]])
 - Quickselect
   - [[https://leetcode.com/problems/kth-largest-element-in-an-array/][Kth Largest Element in an Array]] ([[file:leetcode/python/215-kth-largest-element-in-an-array.py][code]])
